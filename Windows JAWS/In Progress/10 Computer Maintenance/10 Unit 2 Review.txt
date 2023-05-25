@@ -1,0 +1,62 @@
+Unit 2 Commands
+
+Below are the commands, by unit, that you will need to know for the unit 2 test. This test will also include all commands covered on the unit 1 test. Because these commands cover a wider range of concepts, that are important but less crucial to computer use, than the commands covered on the unit 1 test, a score of 80% will suffice to pass this test. Take time to review any units and ask your instructor questions you have about these commands.
+
+Internet
+Go to notification bar, alt n
+
+Menus Ribbons and Dialog Boxes
+go to ribbon or menu bar, alt
+Open a ribbon, enter
+go to next item within a ribbon -- tab
+go to next group of items in ribbon -- control-right arrow
+go to previous group of items in ribbon -- control-right arrow
+Open system menu, alt space
+bring up shortcut menu -- application key or shift F10
+read dialog box -- JAWS Key b
+Move through items in a dialog box, tab
+Change page in a dialog box, control tab
+Go to desktop, Windows D
+Minimize all windows, windows M
+Say current time, insert F12
+Bring up list of Task Bar icons, JAWS key F10
+Bring up list of System Tray icons, JAWS key F11
+
+Help
+get JAWS help for current item, -- JAWS Key F1
+switch panes in a window, f6
+Bring up program help, F1
+Open a folder in a tree view, right arrow
+Close a folder in a tree view, left arrow
+
+File Management
+Open Windows Explorer: Windows-e
+Create new folder: control shift n
+Delete file or folder: delete
+Rename file or folder: f2
+Select multiple files, control space
+Open a document: control O
+Save a Microsoft Office document for the first time: f12
+
+Formatting
+find text -- control-f
+JAWS Find in word, JAWS key control f
+start spell check -- f7
+read word in context in spell check -- JAWS key c
+Change, c
+ignore, i
+change all, l
+ignore all, g
+open font dialog box -- control-d
+announce formatting -- JAWS key f
+announce color -- JAWS key 5
+double space text, control-2
+single space text, control-1
+put text in 1.5 line spacing, control-5
+bold, control-b
+italicize, control-i
+underline, control-u
+
+Computer Maintenance
+Lock computer, windows-l
+Start narrator, windows-u

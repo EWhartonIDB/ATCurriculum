@@ -1,0 +1,40 @@
+
+
+Following Links and Reading Web Pages
+
+Here are some commands that may be useful in this assignment:
+
+Go to address bar: alt-d
+Find text on page -- control-f
+Go back to the previous page -- alt-left arrow or backspace
+
+Table reading commands:
+Move one cell in any direction,	alt-control-arrow keys
+
+Open up Internet Explorer using the same steps you use to open your documents folder.  
+Hit alt+D to go to the address bar. 
+Paste in the following address: 
+z:\computer%20class\windows\4%20internet%201\web%20pages\start.html
+
+Use this page to access the answers to the following questions:
+1. Insert-f7 brings up the list of links available on a page. how many links are there on this page?
+
+2. Follow the question 2 link. Typing the letter l  brings you to the next list on a page. How many lists are on this page?
+
+3. Return to the main page, follow the link called question 3, use the table to find the answers to the following questions:
+a. what is the traditional gift for a 14th anniversary?
+
+b. what is the modern gift for an eighth anniversary?
+
+c. what is the traditional gift for the 35th anniversary?
+
+4. Return to the main page.  select the link for question 4. Control-f will allow you to search for a word or phrase on a web page. Read the article and answer the following questions:
+
+a. Where does the nucleus of most cultured pearls today come from?
+
+b. When does the "Pearls" exhibit end at the Museum of Natural History?
+
+c. Out of every 1000 natural pearls, how many will be perfectly round?
+
+d. What did a jeweler during the Renaissance fashion a misshaped pearl into?
+

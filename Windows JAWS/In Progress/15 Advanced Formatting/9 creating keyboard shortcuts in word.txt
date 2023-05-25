@@ -1,0 +1,28 @@
+Creating Your Own Keyboard Shortcuts
+
+The following is a post found on  lifehacker.com. 
+These instructions were written for people who use a mouse, but you can translate  them to keyboard commands. Use these instructions to create keybaord shortucts   for the commands listed after the instructions. 
+
+
+Create Your Own Keyboard Shortcuts for Commands in Microsoft Word
+lifehacker.com
+
+Did you know that just about any command (e.g., clear formatting or insert a copyright symbol) in Word can be assigned your own custom keyboard shortcut? If you didn't know, here's how to use this great time-saving trick.
+
+
+How-To Geek points out the steps for Word 2013, but this is a feature that also works in earlier versions of Word, as I tested it out in Word 2010 and also found the feature in Word for Mac 2011.
+
+In Windows:
+
+Right-click on the ribbon toolbar and select Customize the Ribbon...
+In the window that opens, look to the bottom of the commands list for the keyboards shortcuts "Customize..." button and click that.
+In the new Keyboard shortcuts screen, select the command you want to add a keyboard shortcut to. You'll find the command by clicking on a category in the left box and then the specific command on the right side.
+Then put your cursor in the "Paste new shortcut key" field and hit the keys you want for your shortcut. Word will tell you if that shortcut is already being used and you'll have to choose a new one.
+Finally, click the "Assign" button.
+
+
+1. Copy format set to control-shift-c
+2. insert date time set to control-shift-d
+3. update table of contents set  to alt-shift-control-t
+4. copyright symbol (under common symbols) set to alt-control-shift-c
+5. 

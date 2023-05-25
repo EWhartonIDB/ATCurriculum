@@ -1,0 +1,31 @@
+The Find and Replace Dialogue Box
+
+The find and replace dialog box contains three useful tools.
+
+Find
+	Use the Find option to find text, formatting, paragraph marks, page breaks, and other items. You can extend your search by using wildcards and codes. If you don't know what these are, Google them. The Find option allows you to quickly search for every occurrence of a specific word or phrase. This is similar to the Find command used on the Internet, but is done through Windows instead of your screen reader.
+
+Replace
+	The Replace option allows you to automatically find text and have it replaced with other text. For example, you can replace the word "failure" with the word "success" once, or every time it appears in a document.
+
+Go To
+	The Go To option allows you to jump directly to a certain page within your document; you can also jump to a specific section, line, bookmark field, footnote, end note, table, graphic, equation, object or heading.
+
+	Note: after you perform a find, replace, or go to command, the dialogue box is still present, so if you want to return to your document, you must press escape to make this dialogue box disappear. Also, If you ever need to cancel a search in progress, press Escape.
+	All of these tools are found in the find and replace dialog box, and each also has its own shortcut command. 
+
+	Explore these three features to answer the below questions. You may use the Internet to help you, but write all answers in your own words.
+
+1. Bring up the Find dialog box in Notepad, explore it. Write an explanation of how it works and how to use it.
+
+2. Open a Word document containing some text, like any of the previous four assignments. Bring up the Find dialog box.
+A.  Explain how the Find dialog box in Word is laid out and how to use it.
+
+B.  What is different between the Find dialog boxes in Word and Notepad.
+
+3. Open the Replace dialog box in either Notepad or Word. Write an explanation of how it is laid out and how to use it.
+
+4. Open the Go To dialog box in Word. 
+A. Figure out how this feature works and explain it for someone else to use.
+
+B. How many options are within the combo box in the Go To dialog box?

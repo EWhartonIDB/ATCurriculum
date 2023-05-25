@@ -1,0 +1,7 @@
+Definitions
+
+RAM
+Random Access Memory. If a computer were a human being, its RAM would be its short term memory. 
+
+Processor
+

@@ -1,0 +1,48 @@
+Bulleting, Inserting, and Printing
+
+bullet
+A large dot  used as a design element in text; often used to set off each item in a list.This kind of list is called a bulleted list..
+
+graphic
+1.A symbol produced by a process such as handwriting, drawing, printing, engraving, etc. 2.An image in computer graphics format.
+
+margin
+The space between text and the edge of the page.Most word processors and page layout programs provide a way of adjusting the margins
+
+orientation
+The direction in which a page is turned for layout and printing; the two possible orientations for letter-size paper are landscape (wide) and portrait (tall).
+
+
+portrait
+A way of positioning a page so it is taller than it is wide, as in portrait painting; the most common way of orienting a letter-sized page for printing.A computer printer usually gives the user a choice between portrait orientation and its opposite, landscape.
+
+landscape
+A way of positioning a page so it is wider than it is high, as in landscape painting.A computer printer usually gives the user a choice between landscape and portrait orientations.
+
+ink jet printer
+A printer in which the image is made by tiny ink droplets which are sprayed from a nozzle onto a piece of paper.Inkjet printers can produce high-resolution color or black and white images.
+
+laser printer
+A high-speed, non-impact printer that uses a laser beam to form images on a page.Laser printers work like photocopiers to produce high-resolution, high-quality printouts. Documents printed on a laser printer are of better quality than those produced on an ink jet printer.  Resumes should be printed on a laser printer.
+
+print queue
+A lineup of items waiting to be printed.
+
+print server
+A computer in a network that handles printing for other computers.It may control more than one printer.The other computers send their files to the print server, and the print server sends each file to be printed when a printer is ready.
+
+hard copy.
+A printed copy of a file; a printout
+
+file extensions for graphics/pictures: .gif, .jpg, .bmp :
+
+Locations of functions within the menus: 
+bullet: format menu, "Bullets and numbering"
+insert a picture: insert menu, "Picture", "From File" 
+change margins: file menu, "Page Setup"
+change orientation of document: file menu, "Page Setup", "Paper Size" page.
+print:file menu, "print"
+center document vertically on page: file menu, "Page Setup", "Layout" page.
+
+
+

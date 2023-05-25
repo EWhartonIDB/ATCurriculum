@@ -1,0 +1,34 @@
+	BARD
+
+	BARD is a free service provided by the National Library Service for the Blind and Physically Handicapped. They provide thousands of books in audio and braille. You can download books to read on a smart phone, braille display or digital book player. If you do not have a BARD account, now might be a good time to sign up for one. If you wish to do so, let your instructor know and then find the sign up option from the BARD home page.
+
+1. Go to the BARD website at http://bard.loc.gov
+
+2. Login using your username and password. If you do not have one, have your instructor log you in. 
+
+3. If you are not taken immediately to the search page, find and press the button to accept the pledge.
+
+4. Search for an audio book to download that you would enjoy reading and follow the link to download it.
+
+5. A notification will appear in the Notification Bar asking you what you want to do with this file. Press alt-n to go to the Notification Bar. Tab to the save split button. Hit the down arrow to open the menu for this split button and choose save as. Save the book in your books folder that you created earlier in this unit.
+
+6. Go to your folder and select the file that you downloaded. This will be a compressed file with the file extension .zip. 
+
+7. Use the Applications menu to choose "Extract All".
+
+8. Follow the prompts to unzip the file. 
+
+9. Copy the unzipped folder to a jump drive. It can now be played in a talking book player provided by NLS. 
+
+10. Ask your instructor for an NLS player, and listen to the first couple minutes of the book.
+
+
+11. Now go back to the BARD website; search for and download a braille book that you would like to read. Note that on the results page, the audio and braille book categories are at heading level one.
+
+
+
+12. Unzip the braille book. It can now be embossed or copied to a note taker for reading. 
+
+13. Ask your instructor for a braille display and instructions for copying your book to that specific device. Open your book on the braille display and spend some time checking it out.
+
+Note: When dowloading files, if you accidentally hit enter on the save button instead of arrowing to save as, your book will be saved in the downloads folder on your computer. You will need to navigate to your downloads folder to retrieve it.

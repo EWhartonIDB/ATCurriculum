@@ -1,0 +1,35 @@
+Introduction to Menus, Ribbons and Dialog Boxes and Objectives
+
+Objective
+To learn to navigate basic Windows and Office elements to change settings and options
+ 
+Key Concepts
+Upper ribbon, lower ribbon, split buttons, drop-down grids, backstage tabs, keyboard shortcuts, hot keys, context menu, submenus, Task Bar, System Tray
+ 
+Skills
+•	Navigating menus 
+•	Navigating ribbons 
+•	Moving through dialog boxes 
+•	Choosing options within menus, ribbons and dialog boxes 
+•	Finding and using keyboard shortcuts and hot keys 
+•	Using the Task Bar and System Tray 
+•	Using the context menu 
+•	Choosing the most efficient command for a particular situation 
+
+	Now that you have learned the basics of using a screen reader and are relatively comfortable with the internet, it's time to learn how to navigate the menus, ribbons and dialog boxes in programs so that you can access features and change settings.
+	One nice thing about menus, ribbons and dialog boxes is that they are pretty consistent no matter what program you are using. They still look the same, and you use the same commands to navigate them no matter where you are.
+	We will take menus, ribbons and dialog boxes one at a time since they are each a bit different and have different commands. We will then look at a few other windows elements including the Start menu and System Tray.
+	This unit will involve a lot of exploring. The best way to become comfortable with how menus, ribbons and dialog boxes work is to move around them and find things. Take time to refer back to your commands lists to see what commands might help you most in any situation, and don't be afraid to ask questions. It is far more important that you become comfortable with working with these items than that you get through the assignments quickly.
+	Now might be a good time to consider increasing your screen reader speed a small amount. Remember, you don't want to increase it too much at once, but it is good to gradually increase your speed so that you can move through information more efficiently. If you don't remember how to do this, ask your instructor.
+
+
+
+
+
+
+
+
+
+
+
+

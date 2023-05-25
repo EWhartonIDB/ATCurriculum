@@ -1,0 +1,12 @@
+
+Navigating Within Excel
+Reminder: read all of the instructions below before you begin this assignment.
+
+Use an Excel spreadsheet to solve the following riddle:
+To do this, open Excel. When Excel loads, it will give you the option to choos a template. By default, the cursor is on blank, which is what you want for this assignment, so press enter.
+
+There are 16 boxes in a block. This block measures 4 boxes across and 4 boxes down (4x4). 
+There are 4 blue boxes, 3 white boxes, 3 red boxes, 3 green boxes, and 3 yellow boxes. 
+Show how these boxes can be arranged so that no color appears twice in the same horizontal, vertical, or diagonal line.
+
+Save this file in your folder and give it the name navigation.

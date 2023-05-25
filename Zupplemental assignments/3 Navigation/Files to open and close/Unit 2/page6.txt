@@ -1,0 +1,2 @@
+6. remove the first and last letters
+

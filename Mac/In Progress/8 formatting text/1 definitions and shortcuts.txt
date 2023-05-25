@@ -1,0 +1,108 @@
+Spell Checking and Formatting Text
+
+Objective
+To become proficient at spell checking and changing text font, style, alignment and other graphical elements in order to produce high quality and visually appealing documents
+
+Key Concepts
+font, style, layout, line spacing, spell checking, bullets, working with toolbars and dialog boxes
+
+Skills
+•	spell checking a document
+•	changing text font and size
+•	changing alignment and text spacing
+•	inserting pictures and other graphical elements
+•	using the find and replace function to fix recurring errors
+•	bulletting lists
+
+Definitions:
+
+format
+The organization, arrangement, and final form of a document
+
+underline
+a line drawn underneath text to add emphasis or draw attention  also called underscore
+
+bold
+Boldface, or bold, type characters are thicker and darker than normal text. Most standard type fonts can be made bold in programs that handle type styling, such as word processors, page layout programs, and graphic design programs
+
+italics
+Type that is slanted to the right and sometimes more scripted than the text font it matches. Italics are used for emphasis. 
+
+bold italic
+Bold italic type has the italic script design but the extra weight of boldface letters and is used for emphasis in typography.
+
+font
+A complete set of type characters in a particular style and size
+
+scalable font
+A font that can be used to print characters of any size. all sizes will print with the same quality. Examples of scalable fonts are the Adobe Type 1 PostScript fonts, TrueType fonts, Intellifont typefaces, and Speedo fonts.
+
+city named fonts
+Fonts named after cities, such as Chicago, New York, Geneva, Monaco, Cairo, are usually bitmapped fonts and therefore not scalable. This is why they have ragged outlines when printed. The TrueType versions of these fonts, however, are an exception
+
+font size
+The size of the characters on the computer screen or on a printed page, usually measured in points. There are 72 points to an inch. Half-inch letters are therefore 36 points; quarter-inch letters are 18 points. Regular type in newspapers, reports, and letters is usually from 10 to 12 points; subheads are usually somewhere around 14 to 18 points; titles may be around 24 to 36 points; headlines can be 48 to 72 points or larger.
+
+superscript
+Superscript characters appear above the line of regular text and are often smaller. Superscripts are used for footnotes and exponents (r2).
+
+subscript
+Subscript characters are below the line of regular text and often smaller. Subscripts are used for chemical symbols (H2O) and mathematical formulas
+
+small caps
+a formatting option where lower case letters appear as smaller versions of the capital letters rather than as a typical lower case letter.
+
+margin
+The space between text and the edge of the page. Most word processors and page layout programs provide a way of adjusting the margins.
+
+page break
+In a document, the place where a page ends and a new page begins. A word processor will automatically insert a page break after a certain number of lines; or the user can enter a command to put a page break in a particular place
+
+indent
+Aligning a portion of text farther inside of the margin than the surrounding text. The first line of a paragraph is often indented from the left margin
+
+line spacing
+A way of specifying vertical space between lines on a document by single spacing, double spacing, or one-and-a-half line spacing.
+
+single spacing
+In a word processing program, a setting that gives the normal automatic leading between every line of text. 
+
+double spacing
+In a word processing program, a setting that gives double the normal leading between every line of text.
+
+alignment
+Where text or other graphic elements are placed on the page in relation to other elements or the margins. For example, right-aligned text lines up with the right margin.
+
+centering
+Aligning text around the center of a page; usually refers to horizontal alignment
+
+tab
+To hit the tab key or give another command that advances the cursor to the next tab stop. Tab stops are used for tabular material (material that is arranged in a table) to line up text in columns. One tab is usually .5 inches.
+
+Commands
+find  command-f
+find selection  command-e
+open inspector -- command-shift-i
+Find the next style change--VO-command-c
+Find the next misspelled  word--VO-command-e
+check spelling -- command-shift-semicolon
+Speak text attributes--VO-t
+Copy the last spoken phrase to the clipboard--VO-shift-c 
+Select all text in the VoiceOver cursor--VO-shift-a
+Go to next color change --  VO-command-k
+Go to next font  change  --  VO-command-o
+go  to  the next style change--VO-command-c
+align text left  -- command-shift-left bracket
+align text right  -- command-shift-right bracket
+center text - command-shift-backslash
+display definition of selected word -- command-control-d
+show font window -- command-t
+copy style -- command-option-c
+paste style -- command-option-v
+grow font -- command-shift-equals
+shrink font -- command-shift-hyphen
+underline -- command-u
+bold -- command-b
+italic -- command-i
+find text or find and replace -- command-f
+change VoiceOver verbosity (to have VO announce font and style changes) -- VO-v

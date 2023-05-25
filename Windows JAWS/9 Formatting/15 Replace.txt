@@ -1,0 +1,12 @@
+
+Remember way back when you began learning JAWS? Remember how you were tormented by those darn limes and eals? Now it is your chance to create an assignment that can torment someone else.  Here's how you are going to do it.  
+
+
+1. Go online and find a short story or article that contains a good number of occurrences of one word.
+
+2. read through this article carefully
+3. choose a word that appears often in this document
+4. choose a word to replace this word with (like lime for time or mismanagement for management)
+5. Use the Replace dialog box to replace the original word with yours. Isn't that a lot easier than how you fixed this back in unit 1?
+6. How many times did the word occur in the document.
+

@@ -1,0 +1,18 @@
+This is the top of the document
+This is the second line.
+This is the third line.
+This is the fourth line.
+
+abcdefghijklmnopqrstuvwxyz
+
+apple banana cake dog egg fish goat hat igloo jaguar kangaroo leopard muffin number olive pumpkin quiet rabbit squirrel toad umbrella violin wishbone xylophone yodel zebra
+
+This is the first paragraph. A paragraph is a block of text. Usually it is made up of sentences that go together to form a complete idea. This paragraph is probably only part of an idea.
+
+This is the second paragraph. The first paragraph was probably put together a little better. I am trying to create this assignment in a hurry.
+
+This is the third paragraph. It comes after the second paragraph. It also comes before the fourth paragraph.
+
+This is the fourth paragraph. It is probably the last paragraph I am going to put on this page. I am getting a little tired of typing paragraphs.
+
+This is the last line of the document. 

@@ -1,0 +1,53 @@
+Simple Editing and Objectives
+
+Objective
+To perform basic text cutting, copying, and editing that will be used to produce documents, emails, and interface with websites
+
+Key Concepts
+Selecting text, copy/paste commands
+
+Skills
+•	Selecting text by letter, word, line, and paragraph
+•	Cutting, copying and pasting text
+•	Undoing the previous action in a document
+•	Inserting blank lines
+
+Keyboard commands and definitions forSelecting, Cutting, Copying and Pasting
+
+Definitions
+
+Clipboard
+A temporary storage place used  for text or other data that you have cut or copied.
+
+Selecting
+Also called highlighting, or marking. This is when a section of text is chosen or marked so that only this text will be affected by a later action. For Example, if you  wanted to remove a sentence, or an  entire paragraph from this document, you need to select it first, then you could cut it  or delete it.
+
+Cut
+This command removes the selected text from the document and places it on the clipboard.
+
+Copy
+This command makes a copy of the selected text and places that copy on the clipboard. It does not remove the selected text from its current location.
+
+Paste
+This command takes the text that was last placed on the clipboard and places it at the location of the cursor.
+
+To select text, hold down the shift key while you use the cursor movement keys that you learned in the previous lessons, and everything that the cursor passes over will be selected.
+
+To unselect all selected text let go of the shift key and move the cursor in any dirrection.
+
+To unselect part of the text you have selected, keep holding down the shift key, but move the cursor in the opposite direction. 
+
+Note that the command to select by paragraph does not work in Notepad, but does work everywhere else.
+
+Keyboard Commands
+Select text, shift 
+Copy, Control C
+Cut, Control X
+Paste, Control V
+Select all, Control A
+Delete character to the left of the cursor, backspace
+Delete character to the right of the cursor, delete
+Delete selected text, Delete or backspace
+Undo, Control Z
+For example, if you accidently cut or pasted some text and did not mean to do that, pressing control+z would undo that command and put everything back like it was before you performed the last command.
+This will read the text that you have placed in the clipboard if there is any. 

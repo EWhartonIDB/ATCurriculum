@@ -1,0 +1,4 @@
+
+Inside this door, you find a very plain door on your left, and a heavy metal door in front of you.  When you examine the metal door, it appears to be a safe.  You turn the dial and you hear it click open.
+If you want to go through the door, go to page 12.
+If you want to check out the safe, go to page 13.

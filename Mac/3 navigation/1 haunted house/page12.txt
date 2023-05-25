@@ -1,0 +1,5 @@
+
+As you open the door, you immediately hear the crackle of a roaring fire. There is a thick rug under your feet. You hear the voice of an old man say "Hello?"  You say hello and explain to him that you are lost and ask him if you could use his phone. He says that he doesn't have a phone, but he could give you a ride into town in the morning. He tells you to have a seat by the fire. It feels very good to sit down. He asks you if you would like a cup of hot cocoa.
+If you accept the cocoa, go to page 14.
+If you turn down the cocoa, go to page 15.
+

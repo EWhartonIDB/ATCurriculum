@@ -1,0 +1,72 @@
+Designing a Spreadsheet 
+
+
+
+Scenario
+
+You are a high school teacher and you have been put in charge of the lunch time snack sales that the juniors use to raise funds for Prom. Design a spread sheet to organize and account for all of the following information.
+
+
+
+You are selling hot dogs for $2.50 each, bags of chips for $0.75 each, cookies for $0.50 each and  cupcakes for $1.00 each.  
+
+Your starting inventory is as follows:
+
+
+hot dogs -- 200
+
+cookies -- 500
+
+chips -- 300
+
+cupcakes -- 100
+
+
+
+Here are the sales figures for the five days of the first week:
+
+
+hot dogs -- 15 18 14 20 23
+
+cookies -- 35 40 45 48 48 
+
+chips -- 20 28 27 26 33
+
+cupcakes -- 10 12 14 18 19
+
+
+
+Design your spreadsheet in such a way that it will enable you to answer the following questions.
+
+
+1. How much money did you take in this week?
+
+
+
+2. What was your gross income on chips for the week?
+
+
+
+3. On which day of the week were your overall sales the highest?
+
+
+
+Now create a table to determine your net profit on each item. 
+Here are the costs for each item:
+
+
+hot dogs -- $0.88
+
+chips -- $0.34
+
+cookies -- $0.09
+
+cupcakes $0.55
+
+
+
+4. What is your total net sales for the week? (Net sales are income minus expenses)
+
+
+
+5. Which product had the highest net sales?

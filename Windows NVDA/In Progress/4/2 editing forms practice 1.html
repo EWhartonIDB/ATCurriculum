@@ -1,0 +1,136 @@
+<! DOCTYPE html>
+<HTML>
+<HEAD>
+<title>Forms Practice #1</title>
+<base href="">
+<LINK REV="MADE" HREF="mailto:rfccbd@hotmail.com">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<BODY BGCOLOR="FF0000" TEXT="FFFFFF" LINK="00FF00" VLINK="0000FF" ALINK="FF00FF">
+<center><font face="Arial" size=5>Practice Web Form</center></font><hr size=5><p>
+<font face="Arial" size=3>
+A lot of websites that you visit will contain forms.  Forms are used to submit information to a website or get the right kind of information from a website.  <br>
+The most important thing to remember about forms is that you must enter focus mode.  Most of the time when you land on a form control, NVDA will put you in focus mode automatically. You will know this because you will hear a high pitched beep with a click. Occasionally, however, NVDA will not put you into focus mode automatically and you will have to turn on focus mode. To turn on focus mode, can hit caps+spacebar. Really what this means is that in order to enter text in a text field -- such as the name field below, you will need to hit caps+spacebar. Then NVDA will make the beep with a click.  If you don't enter focus mode, NVDA may interpret the keys you type as navigation commands This is especially annoying because this can move you to somewhere else on the page and force you to lose your place. Occasionally you will need to exit focus mode and go back to the regular browsing mode so you can read the text surrounding a control. You can do this by hitting escape . You can then use your standard reading commands. To continue filling out the form, you will need to re-enter focus mode. <br>
+Now please fil out this form. Don't worry, its just practice.<p>
+
+<FORM METHOD=POST Action="v:\ie1\thankyou.html">
+<label for="name">Name:</label>
+<input id="name" type="text" autocomplete="name">
+<label for="address">Address:</label>
+<input id="address" type="text" autocomplete="address">
+<label for="city">City:</label>
+<input id="city" type="text" autocomplete="city">
+<label for="state">What state are you in?</label>
+<select id="state" name="select">
+<option value="1">Confusion</option>
+<option value="2">Dismay</option>
+<option value="3">Solid</option>
+<option value="4">Iowa</option>
+<option value="5">All of the Above</option>
+</select> 
+<label for="number">Select a number between 1 and 20:</label>
+<select id="number" name="select">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+</select> 
+<label for="icecream">What is your favorite type of ice cream?</label>
+<select id="icecream" name="select">
+<option value="1">Vanilla</option>
+<option value="2">Chocolate</option>
+<option value="3">Strawberry</option>
+<option value="4">Cookie Dough</option>
+<option value="5">Other</option>
+</select> 
+<label for="weather">What is the weather like today?:</label><br>
+<textarea id="weather"></textarea>
+<fieldset>
+<legend>If you were an animal, what kind of animal would you be?:</legend>
+<input id="warthog" type="radio" name="animal" value="warthog">
+<label for="warthog">Warthog</label><br>
+<input id="giraffe" type="radio" name="animal" value="giraffe">
+<label for="giraffe">Giraffe</label><br>
+<input id="wildcat" type="radio" name="animal" value="wildcat">
+<label for="wildcat">Wildcat</label><br>
+<input id="swordfish" type="radio" name="animal" value="swordfish">
+<label for="swordfish">Swordfish</label><br>
+<input id="bluebird" type="radio" name="animal" value="bluebird">
+<label for="bluebird">Blue Bird</label><br>
+<input id="kangaroo" type="radio" name="animal" value="kangaroo">
+<label for="kangaroo">Kangaroo</label><br>
+</fieldset>
+<input id="check" type="checkbox" name="check" value="check">
+<label for="check"> I know how to check a check box.</label><br>
+<label for="music">What is your favorite type of music?</label>
+<select id="music" name="select">
+<option value="1">Classical</option>
+<option value="2">Pop</option>
+<option value="3">Country</option>
+<option value="4">Polka</option>
+<option value="5">Other</option>
+</select> 
+<label for="form">What is your favorite type of form?</label>
+<select id="form" name="select">
+<option value="1">Long forms</option>
+<option value="2">Long, tedious forms</option>
+<option value="3">Long, tedious, useless forms</option>
+<option value="4">This form!</option>
+<option value="5">Other</option>
+</select> 
+<fieldset>
+<legend>How do you like computer class?:</legend>
+<input id="morechocolate" type="radio" name="likecomputer" value="morechocolate">
+<label for="morechocolate">more than chocolate</label><br>
+<input id="moreless" type="radio" name="likecomputer" value="moreless">
+<label for="moreless">less than chocolate, but more than a root canal</label><br>
+<input id="aboutmuch" type="radio" name="likecomputer" value="aboutmuch">
+<label for="aboutmuch">about as much as a root canal</label><br>
+</fieldset>
+<label for="character">If you could spend a day with a fictional character, which of these would you choose?</label>
+<select id="character" name="select">
+<option value="1">Mary Poppins</option>
+<option value="2">James Bond</option>
+<option value="3">Shrek</option>
+<option value="4">Gandolph</option>
+<option value="5">Harry Potter</option>
+<option value="6">Cosmo Kramer</option>
+<option value="7">Jack Bower</option>
+<option value="8">Mr. ed</option>
+<option value="9">The Cat in the Hat</option>
+<option value="10">Rambo</option>
+<option value="11">Jean-Luc Picard</option>
+</select>
+<label for="quote">What is your favorite quote or saying?:</label><br>
+<textarea id="quote"></textarea>
+
+<input id="finished" type="checkbox" name="finished" value="finished">
+<label for="finished">I finished the form!</label><br>
+
+<p>
+<INPUT TYPE=submit Value=submit>
+</p><p>
+<p> Please tell your instructor that you have finished so that he or she can come look at your form. </p>
+
+
+</form>
+
+
+</body></html>
+

@@ -1,0 +1,20 @@
+Your Resume as a Power Point Presentation
+
+Create a power point containing at least 1 of each of the following slides. Feel free to copy text directly from your resume if you wish to do so. 
+
+1. A title slide with your name as the title. You can either come up with a subtitle for the subtitle placeholder or delete that placeholder.
+2. A summary of skills and experience slide. The information in this section should be bulleted. You will find the option to create bullets in the home tab of the ribbon. 
+3. An education slide
+4. A work experience slide
+
+If you have additional sections in your resume such as certifications or publications, feel free to create those slides as well. 
+
+Go to the design tab on the ribbon and choose a theme for your presentation. Note that your theme options are arranged in a grid. 
+
+Go to the transitions menu and choose a transition scheme and then go back to the ribbon and choose an audio transition.
+
+You have now created a basic power point. You may choose to go back to this presentation later and add pictures, clipart, music, or narration after you have completed the other assignments in this unit or in your free time. 
+
+
+
+

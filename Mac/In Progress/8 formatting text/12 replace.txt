@@ -1,0 +1,7 @@
+
+Scenario:
+You finished writing a very long English paper -- the file called 5 paper.rtf-- and discovered that you had spelled the name Penelope wrong every time you wrote it. It is suppose to be spelled Penelope, but you spelled it Penelopie.  You also spelled the name Zeus wrong.  It is supposed to be spelled Zeus, but you spelled it Zues 
+
+1. What is the fastest way you can fix this?
+
+2. Fix the errors in the file.

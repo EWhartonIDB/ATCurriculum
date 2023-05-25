@@ -1,0 +1,12 @@
+Footnotes
+
+Open the file called certification.doc located on the v drive. save a copy of this file in your folder. Insert page numbers in the upper right hand corner with no page number on the first page. When you read through this document you will find numbers in braces.  these numbers represent the places where footnotes should be placed.  The footnoted text that you are to use is printed below. 
+
+1. C++ is an object-oriented version of C created by Bjarne Stroustrup at AT&T Bell Laboratories in 1986. In C, "C++" means "add 1 to C." C++ is the basis of the Java language.
+2. Certified Internet Webmaster 
+3. PHP 3.0 is the latest release of the server-side scripting solution already in use on over 70,000 World Wide Web sites. This all-new version of the popular scripting language includes support for all major operating systems (Windows 95/NT, most versions of Unix, and Macintosh) and web servers (including Apache, Netscape servers, WebSite Pro, and Microsoft Internet Information Server).
+4. Extensible Markup Language.A programming language developed by the World Wide Web Consortium; essentially a simplified version of SGML that allows Web developers to create customized tags that will organize and deliver content with more efficiently.XML is a metalanguage, containing a set of rules for constructing other markup languages.By allowing people to make up their own tags, it expands the amount and kinds of information that can be provided about the data held in documents.
+5.  Microsoft Certified System Developer 
+6. Microsoft Certified Systems Engineer 
+7. Cisco Certified Network Professional 
+8. Certified Network Engineer 

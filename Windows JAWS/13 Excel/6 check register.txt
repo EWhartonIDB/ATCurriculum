@@ -1,0 +1,53 @@
+Check Register
+
+Use Excel to make a check register.
+
+1. Put the following headings in row 1:
+The A column=date
+The B Column equals Check Number
+The c column= transaction description
+The d column= Withdrawl
+The e column= Deposit
+The f column= balance
+
+2. Place a beginning balance of $1000 in  Cell F2
+Place the Date of  May 1 in the appropriate Cell, which is cell A2
+For the Description for this transaction, type, Beginning Balance
+
+3. Create the necessary formula in Cell F3 to enable the spreadsheet to calculate the account balances.
+
+4. Fill down the formula at least twenty rows.
+The fill option is found near the end of the home ribbon. It's most common uses, fill right and fill down, are carried out with control r and control d respectively.
+
+5. Define the column titles.
+To define column titles, move to the row that the column titles are in, and then press Control+insert+alt plus C
+
+Before Proceeding to the next steps, it's important to realize something about Microsoft Excel--and Most Microsoft Office programs, for that matter. Microsoft Office employs a number of automatic functions to make documents and spreadsheets more readable and usable. This includes auto-completing the formulas you type, checking your spelling (in Word documents), and displaying numbers so that they're easier to read (in Excel). This means, for example, that if you type $45.50 in Excel, it will be displayed as $45.5 for easier readability. The problem with this approach, for our purposes, is that, because we're creating a checkbook, cents are just as important as dollars.
+To solve this problem, we need to properly format the cells containing dollar amounts so that they're displayed as currency instead of general numbers. 
+
+6. Set the cell format to currency for the cells that contain dollar amounts. This option is found in the home ribbon. You can also press the applications key and select "format cells..." from the context menu.
+
+7. Fill out the check register to show the following transactions:
+5/1 -- check #101 to Fareway Grocery for $45.98 
+5/4 -- deposit $161.11
+5/5 -- check #102 to Wallgreens Pharmacy for $22.49 
+5/7 -- ATM withdrawl of $40
+5/10 -- check #103 to The Rental Shop for $326.87 
+5/15 -- deposit $776.44
+5/18 -- check #104 to Xcel Energy for $41.21 
+5/21 Check #105 to WallMart for $97.26
+5/21 -- ATM withdrawal of $50
+5/26 -- check #106 to Super America for $10.50 
+5/30 Check #107 to Humble Apartments for $650
+5/31 -- deposit $300
+
+8. Save this file in your folder and give it the name check register.
+
+Now that you have entered all the data into the spreadsheet, it is important that everyone be able to read it. This means that you need to make each column at least as wide as the largest number of characters in that column. For example, if the entry of $1,000.00 in column F is the widest entry in that column, you would want to set the column width to be at least as wide as that entry. In addition, it is also desireable to have all of the column titles centered above each column.
+The first step to changing the format of something, as you already know, is by selecting it. You can select a group of cells by moving to the first cell you want to select, and then holding down the shift key and using the arrow keys to move to the other cells you wish to select. You can select an entire column by simply moving to any cell in that column,
+and then pressing Control +spacebar. If you want to select multiple columns, select one column first, 
+then press and hold the shift key while pressing the right or left arrow keys.
+To Make Excel automatically adjust to the widest intry in a column, go to the home tab, click the format item found in the sixth group, then choose Auto Fit Column Width.
+
+9. Center the title of each column. This option is found in the alignment tab of the home ribbon.
+10. Set the column width of every column in your spreadsheet, using the auto fit selection, as described above.

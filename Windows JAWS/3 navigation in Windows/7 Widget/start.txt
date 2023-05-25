@@ -1,0 +1,14 @@
+Scenario – 
+Imagine you have just been hired by the firm of Blank & Blank in the sales department of the widget division .  In order to get yourself up to speed with the department, you need to read last year’s sales figures for the two products you will be working with – the Widget-o-matic and the higher end version, the Widget Master 3000.  You will find these figures in the files titled widget-o-matic.doc and widget master 3000.doc.  Use these figures to come up with the answers to the following questions:
+
+1. Which of the two products generally sells more units?
+
+2. In what month were the fewest widget-o-matics sold?
+
+3. In what month were the fewest widget master 3000s sold?
+
+4. In what month were the most widget master 3000s sold?
+
+5. In what month were the most widget-o-matics sold?
+
+

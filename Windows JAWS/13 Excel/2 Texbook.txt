@@ -1,0 +1,107 @@
+
+
+Excel
+
+Spreadsheet
+A table which displays numbers in rows and columns, used for accounting, budgeting, financial analysis, scientific applications, and other work with figures.  People used to use paper spreadsheets; computerized versions have the advantage of being able to perform automatic calculations on changing data. Each location in a spreadsheet is called a cell, and each cell has a number, such as A3, B4, etc.
+The value of a cell may be calculated from a formula involving other cells; for example, C5 may be the sum of A5 and B5. If the data entered in A5 changes, then C5 would be automatically recalculated by the program. This feature makes it possible to use a spreadsheet to project the results of a change in one or more factors 
+References between cells may be designated as absolute or relative; an absolute reference refers to a specific cell, and a relative reference describes a cell in its relation to the current cell (as two rows above, two columns to the left, etc.). The data within a cell may be a label, a number, or a formula, and may be copied to other cells. There are two- and three-dimensional spreadsheets.
+The first commercially available spreadsheet program was VisiCalc for Apple II; now there are spreadsheet programs from Microsoft, Borland, Lotus, and many other companies. Microsoft Excel, Apple Numbers, and Lotus 1-2-3 are popular examples.
+
+table
+A presentation of information organized in rows and columns.  Spreadsheet and database programs provide the best tools for working with tables
+
+cell
+A box in a spreadsheet or table where data can be entered.
+
+active cell
+The cell in a spreadsheet in which numbers or formulas can be entered.  The active cell shows a thick border, and its name is at the top of the screen; also called the current cell.
+
+cell reference
+The exact designation of a cell's location in a spreadsheet, indicated by a column letter and a row number.  The address D4 would be in column D, row 4.  Also called cell address.
+
+absolute cell reference
+In a spreadsheet, a reference to one specific cell, rather than a relative reference which would indicate the placement of a cell in reference to the current cell (for example, four rows above in the same column). Because cell references in a spreadsheet are relative references by default, an absolute cell reference must be indicated if desired; this is done by different codes in different programs, but often by adding a dollar sign: $A42, $B$12.
+
+formula
+a statement that begins with an = (equals sign) that tells the computer what operations to perform to come up with a value for the cell.
+You can create a wide variety of formulas in Microsoft Excel, from formulas that perform a simple arithmetic operation to formulas that analyze a complex set of formulas. 
+
+functions
+predefined formulas that perform simple or complex calculations. 
+
+array formula
+a type of formula that performs multiple calculations simultaneously and then returns one or more results,
+
+JAWS Specific Keystrokes 
+Informational Keystrokes for Columns
+Set column header row: Control-insert-alt-C
+Read first cell in column: Alt-1 
+Read second cell in column: alt-2
+Read third cell in column: alt-3
+Read fourth cell in column: alt-4
+List cells in current column: control-shift-C
+Read column total: insert-numpad enter
+Say column title: alt-shift-c
+
+Informational Keystrokes for Rows
+Set header coumn for rows
+ Control+insert+alt plus r
+Read first cell in row	ALT+CTRL+1
+Read second cell in row	ALT+CTRL+2
+Read third cell in row	ALT+CTRL+3
+Read fourth cell in row 	ALT+CTRL+4
+List cells in current row	CTRL+SHIFT+R
+Read row total	INSERT+DELETE
+Say row title	ALT+SHIFT+R
+
+Miscellaneous Informational Keystrokes
+Describe cell border	ALT+SHIFT+B
+Lists cells at page break	CTRL+SHIFT+B
+List cells with comments	CTRL+SHIFT+’ (APOSTROPHE)
+Read cell comment	ALT+SHIFT+’ (APOSTROPHE)
+List cells with data visible on screen	CTRL+SHIFT+D
+List defined monitor cells	CTRL+SHIFT+M
+List worksheets	CTRL+SHIFT+S
+Say range of cells visible in active window	ALT+SHIFT+V
+Read hyperlink	ALT+SHIFT+A
+Report gridline status	ALT+SHIFT+G
+Say active cell coordinates	INSERT+C
+Say contents of focus rectangle	INSERT+N
+Say cell font and attributes	INSERT+F
+Say formula	CTRL+F2
+Read spelling error and suggestion	INSERT+F7
+
+Navigation Keystrokes
+Move to prior screen in spreadsheet	ALT+PAGE UP
+Move to next screen in spreadsheet	ALT+PAGE DOWN
+Next Sheet	CTRL+PAGE DOWN
+Prior Sheet	CTRL+PAGE UP
+Move down to the edge of current data region	CTRL+DOWN ARROW
+Move up to the edge of current data region	CTRL+UP ARROW
+Move left to the edge of current data region	CTRL+LEFT ARROW
+Move right to the edge of current data region	CTRL+RIGHT ARROW
+
+Selection Keystrokes
+Select column	CTRL+SPACEBAR
+Select hyperlink	CTRL+SHIFT+H
+Select region	CTRL+SHIFT+8
+Select row	SHIFT+SPACEBAR
+Select worksheet objects	CTRL+SHIFT+O
+Collapse selection to current cell	SHIFT+BACKSPACE
+
+Configuration Keystrokes
+Read monitor cell	ALT+SHIFT+1 THROUGH 0
+Set monitor cell	INSERT+SHIFT+1 THROUGH 0
+Clear definitions of monitor cells	CTRL+SHIFT+DELETE
+Formula input mode	= (EQUALS)
+Edit cell contents - f2AutoFilter CTRL+SHIFT+A
+AutoSum	ALT+= (EQUALS)
+Date stamp	CTRL+; (SEMICOLON)
+Time stamp	CTRL+SHIFT+; (SEMICOLON)
+Move between sheets ctrl-page up and ctrl-page down
+Fill cells down -- ctrl-d
+fill cells right -- ctrl-r
+Hit application key or shift-f10 to bring up shortcut menu containing many common formatting functions
+
+q

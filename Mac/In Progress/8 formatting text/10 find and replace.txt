@@ -1,0 +1,12 @@
+
+The Find and Replace Dialogue Box
+
+Press command-f to find or find and replace text. 
+
+Find allows you to quickly search for every occurrence of a specific word or phrase.
+
+ In the Find edit box, type the text that you want to search for. Choose the find previous or find Next Button to move the cursor to the next or previous occurrence of that word. You can find the text area by swiping right or pressing VO-right arrow to move beyond the find and replace controls. Hit the done button when you want the box to go away.
+
+You can use command-g to go to the next occurrence of your previously searched for word without going back into the find dialog box.
+
+If you would like to replace text, check the replace checkbox. You can then type in the replace edit box. You can then hit either the replace or all button. Replace will replace the next occurrence while all will replace all occurrences of the word. Press the done button when you are finished. 

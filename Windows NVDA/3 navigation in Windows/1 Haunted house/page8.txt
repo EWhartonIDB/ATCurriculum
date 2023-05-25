@@ -1,0 +1,5 @@
+
+You look around the living room and find a doorway that leads to a room with tile flooring. You think it’s probably a kitchen. You are very hungry and very tired. You could go into the kitchen and look for some food, or lie down on the sofa and sleep.
+If you want to look for some food, go to page 10.
+If you want to go to sleep, go to page 11.
+

@@ -1,0 +1,42 @@
+VoiceOver Commands Help
+
+Objective 
+To learn how to customize VoiceOver to work most efficiently and use its built in help features to learn new commands and problem solve new applications and situations. 
+
+Key Concepts
+Help system structure, commanders, VoiceOver utility, verbosity
+
+Skills
+•	changing speaking voice, rate, etc.
+•	changing verbosity and text processing settings
+•	using the commands help menu
+•	assigning trackpad commander gestures  and keyboard commander commands
+•	using the spotlight menu
+•	accessing items in the status menu
+•	searching for help resources online
+•	using VoiceOver online help and help files for individual applications
+
+VoiceOver contains its own help system. You can press VO-h to open VoiceOver Help, which brings up a system of menus that you can arrow through. 
+For this assignment, bring up VoiceOver help, arrow down to Commands help, and use that section to find the keystrokes for each of the following commands. If there is no keystroke for the command listed, write "not assigned"
+All of these items can be found in one of the commands menus.
+
+1. read current character phonetically
+
+2. describe item with keyboard focus
+
+3. find previous radio group
+
+4. find next color change
+
+5. repeat last phrase
+
+6. toggle contracted braille on or off
+
+7. window chooser menu
+
+8. go to beginning
+
+9. find next frame
+
+10. open application: mail
+

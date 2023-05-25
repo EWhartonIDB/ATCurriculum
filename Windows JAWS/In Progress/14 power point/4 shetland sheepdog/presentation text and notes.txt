@@ -1,0 +1,119 @@
+Overall: 
+Use design scheme spring
+Put slide transitions between each slide.  Choose a visual transition and an audio transition
+
+
+
+Slide 1 (Title Slide):
+Title: The Shetland Sheepdog
+No subtitle -- delete this field
+change the background of this slide to be the picture sheltie full profile located in the same folder where you found this file.
+
+Slide 2:
+change layout to 2 content areas
+to do this, select the slide in the thumbnail and then hit the application key and choose layout from the menu)
+Or you can find the layout option under the home tab
+
+Title: Origin
+Text:
+The Shetland Sheepdog (or Sheltie) is a breed of dog, bred to be small sheep dogs ideally suited for the terrain of the Shetland Islands in Scotland. It resembles a miniature collie.
+Object for second content area:: picture of border collie and sheltie in snow
+To insert a pictue, go to the ribbon and select insert. On the lower ribbon you will find picture split button and here you need to choose "from file"
+
+Notes:(put notes in the Note pane)
+The Shetland Islands are off the north coast of mainland Scotland.
+Unlike many miniature breeds that resemble their larger counterparts, this breed was not developed by
+selectively breeding the Rough Collie for smaller and smaller sizes. Rather, it is the result of the intermingling of Border Collies and possibly several other herding breeds over the past several centuries.
+Ironically, the Shetland Sheepdog is only rarely found in Shetland, having been replaced by the Border Collie.
+
+Slide 3:
+Title: Sheltie Stats
+Table (use the data below to make a table with 2 columns): You can choose table under the insert tab in the ribbon or create the table in Excel and copy it in.
+
+Average Height: 14-15 inches
+Average life span: 12-15 years
+English Kennel Club Recognition: 1909
+American Kennel Club Recognition: 1911
+
+
+Slide 4:
+Change the layout of this slide to have 2 content areas. 
+Title: Coloring
+
+Text 1:
+Common Coat Colors: 
+sable (ranging from golden through mahogany)
+tricolour (black, white,  and tan)
+blue merle (grey, white, black, and tan).
+
+Text 2:
+Less common coat colors:
+Bi-Blues (grey, black, and some white) 
+bi-blacks (white and black) 
+
+Notes:
+Shelties' ears are required to bend slightly or "tip" at the top to be qualified to show in
+American Kennel Club
+
+Slide 5:
+Title: Temperment 
+Text: (bullets)
+Strong herding instinct, love to chase ducks, squirrels, and children
+Love to run in open areas
+Generally shy and reserved around strangers and loyal to owners
+In their size group, the breed dominates dog agility competitions. They also excel at competitive
+obedience, showmanship, flyball, tracking, and herding.
+
+Object: Video -- use sheltie.mpg. You will insert the video in the same way you insert pictures and audio.  Once you have inserted the video, select the slide object. Go to the ribbon and choose playback. Tab until 
+you hear video options drop down grid. Hit enter on this and tab until you get to the start combo box and choose start automatically from this list. This will make the video start playing automatically when you play the presentation. 
+
+
+
+
+Slide 6:
+change layout to 2 content areas
+
+Title: Sheltie Smarts
+
+Text (not bulleted):
+Shelties have a high level of intelligence. According to Dr. Stanley Coren, an expert on animal intelligence, the Shetland Sheepdog is one of the brightest dogs, ranking 6th out of 132 breeds tested. His research found that an average Sheltie could understand a new command in less than 5 repetitions and would obey a command the first time it was given 95% of the time or better.
+
+Object: Picture
+
+Slide 7:
+Title: Sheltie Grooming
+
+Text (bullets):
+The Sheltie is usually a clean dog and should only need to be brushed once or twice
+a week 
+Shelties 'blow' coat usually twice a year, often at spring and fall, and should be groomed more often at
+those times. 
+Toenails and hair between the pads need to be trimmed every couple of weeks.
+
+Object: clipart (find a clip of a brush or nail clippers)
+
+Notes:
+Shelties have a double coat. The topcoat consists of long, straight, water-repellent hair, which provides some protection from cold and the elements. The undercoat is short, furry, and very dense in order to help keep the dog warm. 
+Most Shelties learn to love the attention that grooming provides, if the routine is started when the dog is still young.
+Regular brushing encourages undercoat growth, distributes healthful oils
+produced by the skin, and prevents sores known as "hotspots" which can occur when dead undercoat is allowed to accumulate close to the skin.
+
+Slide 8:
+Title: More Information
+
+Text: 
+For more information, visit these websites:
+(create hyperlinks for each of the following)
+The American Kennel Club
+http://www.akc.org/breeds/shetland_sheepdog/index.cfm
+The American Shetland Sheepdog Association
+http://www.assa.org/
+Minnesota Sheltie Rescue
+http://www.mnsheltierescue.org/
+
+
+
+
+References:
+Wikipedia
+http://en.wikipedia.org/wiki/Shetland_Sheepdog 4/25/07

@@ -1,0 +1,23 @@
+Making Friends with Finder
+
+The finder window has several sections. If you start at the top and swipe right through the window, you will find a toolbar on top, a sidebar on the left, a vertical splitter, the browsing area on the right , and status information below. You will find a toolbar button. If you click this button, you will hide the toolbar and sidebar. 
+
+The key thing  to remember is that you need to interact in order to work with any particular part of the window. You may also lose interaction with your browsing area once you have selected an item and may need to interact again. 
+
+By default, the browsing area is shown as a grid of icons. VoiceOver will work with this view, however, it is faster to use the list view. The list view displays the contents of a folder as a list and folders can be expanded or collapsed to show their contents. 
+
+1. Command-tab to Finder. Go to the menu bar and select the view menu. Find the keyboard shortcuts for as icon and as list. Write these commands down.
+
+2. Go back to Finder and go to the File menu. Find the keyboard shortcuts for the following options and write them down:
+Eject, 
+Create New Folder, 
+Add to Sidebar, 
+Make Alias
+
+3. The Go menu contains options for going to particular folders. Go back to Finder and go to the go menu.  Find the keybord shortcuts for the following items and add them to your list:
+Home folder, 
+computer, 
+applications, 
+utilities, 
+network, 
+documents

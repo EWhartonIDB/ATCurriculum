@@ -1,0 +1,13 @@
+Scenario:
+Your dog Sparky is missing. You need to make a flyer to hang up on telephone polls in the neighborhood. 
+1. Copy the following text to a word document:
+LOST DOG
+answers to Sparky
+if seen, call 555-1111
+$25 reward
+
+2. Center the text and put it into 18 point font
+3. make a blank line between LOST DOG and answers to Sparky
+4. insert the picture named sparky.jpg (located on the V drive) on the  blank line you just created
+5. save this file as lost dog.doc in your folder on the S drive
+

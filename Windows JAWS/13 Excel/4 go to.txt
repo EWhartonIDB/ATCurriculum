@@ -1,0 +1,14 @@
+
+The Cypher Game
+
+Microsoft Excel is a powerful program that can be used to create enormous spreadsheets. The spreadsheets can be so large that a user can create cells from A1 all the way up to XFD1048576. When Excel runs out of letters in the alphabet, it uses two letter combinations beginning with AA, AB, ac, etc., and when it gets to AZ, it then goes to BA, bb, bc, and so on until it reaches ZZ. As you might expect, it then begins with AAA, AAB, and so on.
+
+Open the corresponding file in your folder called Gameboard.xls. The code numbers listed below are cell references in this spreadsheet. See how quickly you can decipher the following code words. Hint: Excel has a Go To function similar to that found in Word. Try pressing F5 to see what happens.
+
+1. AL44 T51 C10 IA1276 BB109 S988 S988 T2
+
+2. M130 DV4538 DM9912 DU15 AO2301 DU15 V12398
+
+3. AA75 AU999 C8723 ET1489 AW98 BB109
+
+4. EY307 AO2301 AT22 F6 CH11 BB109 DS567

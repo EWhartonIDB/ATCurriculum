@@ -1,0 +1,4 @@
+
+You walk slowly up the stairs. They are dusty, but not unstable. At the top of the stairs, the breeze from an open window shocks you and sends shivers down your spine. There is a door in front of you. It is a heavy wooden door with elaborate carving. To your left there are more stairs.
+If you want to continue up the stairs, go to page 4.
+If you want to open the door, go to page 5.

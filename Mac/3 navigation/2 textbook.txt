@@ -1,0 +1,68 @@
+﻿Navigation Textbook and Objectives
+
+Objective
+ To become familiar with the Mac environment and to be able to move to various parts of the interface and between windows and applications efficiently
+
+Key Concepts
+Desktop, dock, menu bar, menu extras
+Windows, applications
+
+Skills
+•	Navigating to and within the users Home directory to locate files
+•	Opening a document
+•	Moving between open applications 
+•	Moving between windows within an application
+•	Accessing the menu bar, dock, extras, and system time
+
+Definitions
+
+
+Desktop
+The whole computer screen that electronically represents the top of an office desk. With the Use of what they call a  graphical interface, the icons on the screen resemble objects that would be found on a real desk, such as file folders, a clock, etc
+
+
+Application
+An application is a  program that helps the user accomplish a specific task, for example, writing a letter with a word processing program, or balancing your checkbook using a spreadsheet program.  
+
+
+Window
+An area of a computer display screen which has boundaries and is usually rectangular. Windows can be thought of as pieces of paper on one’s desktop. Windows can be opened, closed, and moved around on the  screen. The user can control their size and shape ; also, windows can be overlapped with one another, and overlapping windows can be brought to the front or sent to the back.
+
+
+Icon
+a small picture on the screen which represents something that one can open. Files and programs have icons, and you can access or open them by pressing VO-spacebar on them.
+
+
+Dock
+A line of icons across the bottom of the screen containing some of the applications installed on the computer. All open applications appear there while open, and you can add or remove items from the dock to make some easier to access.
+
+
+Menu Bar
+A line of menus across the top of the screen. The first menu is always the Apple Menu. The second menu is the menu for the active application.  The contents of the menyu bar change when you change the active application. 
+
+
+Keystrokes
+
+
+Go to Home Folder, command shift H
+Open a document or application, command O
+Open a folder, right arrow
+Open a menu, VO-space, or double tap track pad
+Select an item from a menu or dialog box, VO-space, or double tap track pad
+Save, command s
+quit an application, command Q
+Close a window, command W
+Move between open applications, command tab
+Move between windows within an application, command accent
+Find text in a document or web page, VO-F
+Find the next occurrence of the last searched for item, VO-G
+ Go to dock, VO-D, or two finger double tap at bottom of track pad
+Go to Menu bar, VO-M, or 2 finger tap at top of track pad
+Go to status menus, VO-M M
+Describe window, VO Function F2 
+
+
+Move the VoiceOver cursor to the next item -- VO-Right Arrow or Flick right
+Move the VoiceOver cursor to the previous item -- VO-Left Arrow or Flick left
+Interact with an item VO-Shift-Down Arrow or 2 finger swipe right
+Stop interacting with an item VO-Shift-Up Arrow or 2 finger swipe left

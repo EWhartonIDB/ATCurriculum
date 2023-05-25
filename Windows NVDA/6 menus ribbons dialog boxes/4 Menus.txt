@@ -1,0 +1,28 @@
+Menus
+
+The Menu Bar
+	All programs use menus to allow users to access more options than can be shown on the screen. 
+Every window has a horizontal bar at the top of the screen that is used to access these menus. This bar is called the menu bar. 
+The alt key is used to reach the menu bar. 
+The escape key is used to exit the menu bar.
+The left and right arrow keys are then used to move between available menus. 
+
+1. Press the alt key to reach the menu bar in Notepad, what is the name of the item your cursor lands on?
+
+2. List all the menus in the menu bar in order from left to right.
+
+
+Menus
+Menus are lists of items that are shown vertically down from the menu bar. 
+Down arrow can be used to open a menu.
+The up and down arrow are used to navigate these lists.
+
+3. List all the items in the file menu.
+
+4. List all the items in the format menu
+
+
+Using Menus
+To choose an option in a menu, press enter on it.
+Save this document by going to the file menu and pressing enter on save.
+Close this document by going to the file menu and pressing enter on exit.

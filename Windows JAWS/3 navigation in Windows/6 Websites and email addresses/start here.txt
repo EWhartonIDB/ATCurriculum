@@ -1,0 +1,23 @@
+
+Below is a list containing website addresses and email addresses. Put the websites in the file called websites, and the email addresses in the file called email addresses.
+
+www.amazon.com
+www.gmail.com
+bsmith@gmail.com
+www.buy.com
+dave.jones@comcast.net
+www.loc.gov/nls
+info@PleaseHelpMe.now
+hilda9872@yahoo.com
+www.google.com
+f.olsen@ibm.com
+www.youtube.com
+jeff@smokingmeat.com
+www.wikipedia.org
+bard.loc.gov
+bringmelunch@outlook.com
+debrodgers@xomail.net
+www.hulu.com
+crazy.person@stealyouridentity.com
+bookshare.org
+tom.swanson@gmail.com

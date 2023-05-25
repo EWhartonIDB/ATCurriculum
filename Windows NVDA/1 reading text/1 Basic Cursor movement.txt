@@ -1,0 +1,38 @@
+
+ Using the arrow keys to read a document  
+
+When reading a document with the keyboard, one method is to use the up and down arrow keys. 
+When you open a document the cursor is on the top line , and at the far left side of the document. If you press the down arrow key, you move the cursor down the page one line, and your screen reader will then read that line to you. If you then press the up arrow, you will move the cursor up one line, and your screen reader will read that line to you.  
+Below is a short exercise for you to practice this cursor movement. Follow the instructions carefully and find out what the secret word is. 
+The instructions below are numbered, so be sure to follow each instruction in the correct order.  
+
+1. Press the down arrow twice. 
+3. Now press the down arrow three times. 
+2. Now press the up arrow once. 
+5. Now press the down arrow two times. 
+4. Now press the up arrow once. 
+6. Now press and hold the control key and touch the end key.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Congratulations! The secret word is success! 
+7. Now press the up arrow once.

@@ -1,0 +1,15 @@
+
+Downloading and unpacking books from Bookshare
+
+	Bookshare serves as a resource for people with print disabilities to obtain books. They provide thousands of books in braille or in text formats to be read by screen readers. Membership is free for students, and only fifty dollars per year for anyone who is not a student. If you would like to sign up, let your instructor know, and then find the sign up option on the bookshare home page.
+
+1. Go to www.bookshare.org.  Login with your username and password. If you do not yet have one, have your instructor log you in. 
+
+2. Search for a book that you would like to read in audio. Choose the Daisy Text only option and download the book to your books folder. This book can be played on devices that have text to speech features, such as a Victor Reader Stream or Book Port.
+
+3. Choose a book to read in braille. Choose the BRF download format and put this book in your books folder as well. This book can be embossed or read using a braille display.
+
+4.  Go to your folder and unzip the books you downloaded.
+
+
+5. Copy the braille book to a braille display. Locate the beginning of the actual book. Note that their are several pages of copyright notice material before the book, and that the book tells you how to skip this material.

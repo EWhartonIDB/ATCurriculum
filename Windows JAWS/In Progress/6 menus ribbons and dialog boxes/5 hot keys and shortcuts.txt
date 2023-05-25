@@ -1,0 +1,42 @@
+Hot Keys and Shortcuts
+
+When you use an option a lot, like save and close, it can be annoying and time consuming to locate it in the menus every time. For this reason, hot keys and shortcuts exist to make life easier.
+
+Hot keys
+Hot keys are one letter commands that jump you to a specific item in a menu bar, menu or ribbon. When a hot key is pressed, the cursor is moved directly to that item, and the item is selected as if you pressed enter. When moving through menus, hot keys are frequently read after the item. Visually, hot key letters are underlined in the name of the item.
+
+1. List each menu in the menu bar for Notepad along with its hot key.
+
+2. Locate each of these items in the menus and write its hot key.
+Exit: 
+Status Bar: 
+About Notepad: 
+Font: 
+Save As: 
+
+So, if I wanted to change the setting for word wrap, I could press alt, then o for format, then w for word wrap. For settings I use every day, this saves a lot of time. Kind of fun, huh?
+
+Shortcuts
+Shortcuts are keystrokes where more than one key is pressed at the same time to choose an option right away instead of moving through menus. You already know some shortcuts, like alt F4 to close an application and control s to save a document.
+Shortcuts are not always listed in the menus, but some are. The internet can be a good source for learning about other shortcuts.
+
+3. Locate each of these options in the Notepad menus and write its shortcut.
+Copy:
+Open:
+Go to:
+Print:
+Replace:
+New:
+
+4. Switch over to the jaws window. Find each menu or item. List the hot key sequence for this item, the shortcut key if one is mentioned, and if the item is within a menu, what menu it is in.
+Utilities:
+Options:
+about:
+commands search:
+web resources:
+basics:
+settings center:
+allow access to my computer under tandom center:
+what's new:
+
+5. What similarities do you notice between the menus in Notepad and jaws?

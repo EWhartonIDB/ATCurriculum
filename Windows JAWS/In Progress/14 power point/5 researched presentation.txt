@@ -1,0 +1,11 @@
+Power Point 2 -- Choose Your Own Presentation
+
+Requirements:
+1. Must choose a color scheme different from the default black and white
+2. Must contain at least 8 slides
+3. At least 5 slides must have notes
+4. Must choose a font different from the default Arial
+5. Must use at least one table
+6. Must use at least one sound or video clip
+7. Must contain at least 5 pictures
+8. Must use both visual and audio slide transitions

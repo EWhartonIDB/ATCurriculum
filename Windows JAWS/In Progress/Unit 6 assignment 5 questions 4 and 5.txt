@@ -1,0 +1,47 @@
+So I am working on the questions that need to be changed for the Internet explorer section of the curriculum. 
+Below are the current questions from the assignment, and what I propose. 
+
+This is from assignment 5 in unit 7
+
+
+
+Section to be changed:
+4. Open Internet Explorer. Find each menu or item. List the hot key sequence for this item, the shortcut key if one is mentioned, and if the item is within a menu, what menu it is in.
+File:
+Favorites:
+Print:
+Stop:
+Help:
+Save As:
+Internet Options:
+View:
+Full Screen:
+Select All:
+Tools:
+About Internet Explorer:
+Open:
+Edit:
+Windows Update
+New Window:
+
+5. What similarities do you notice between the menus in Notepad and Internet Explorer?
+
+New section:
+When you open Edge what control type do you land on?
+
+
+Now using edge go to google.com. 
+when the google page is loaded and you press the alt key what control type do you land on?
+
+
+When you land on this control type JAWS will tell you what you have landed on and how to navigate it Please list the ways you can navigate this menu below. You may have to escape and press the alt key to write all the options down. 
+
+
+When you open the more settings menu what is the first item you land on?
+
+List the remaining settings found in the more settings menu below. 
+
+When you press the alt key you will land on the more settings menu which is located in the Edge tool bar, please find the items on the edge tool bar and list them below. 
+
+What is the last option in this menu. 
+

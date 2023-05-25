@@ -1,0 +1,143 @@
+Advanced internet Keystrokes
+
+Below are more internet keystrokes that you may find helpful; feel free to ask questions about any of them; some keystrokes that you already know are also in this list. 
+
+general:
+go back a page, alt-left arrow or backspace
+go forward a page	alt-right arrow
+next link	tab
+prior link	shift-tab
+open link	enter
+open virtual html features dialog box	insert-f3
+Activate Mouse Over	INSERT-CTRL-ENTER
+
+Display and manage PlaceMarkers	control-shift-k
+list form fields - insert-f5
+list headings	insert-f6
+list links	insert-f7
+list frames	insert-f9
+go to address bar	alt-d
+open the go to web site dialog box	control-o
+
+keyboard commands to move through a web page.
+next radio button A
+next button	b.
+next combo box	c.
+next different element	d.
+next edit	e.
+next form field	f.
+next graphic	g.
+next heading	h.
+next list item	i.
+jump to a specific line	j.
+Return to the starting point before the jump	shift-j.
+next place marker	k.
+next list	l.
+next frame	m.
+skip past links	n.
+next object	o. 
+next paragraph	p.
+next block quote	q.
+next region r. 
+next same element	s.
+next table	t.
+next unvisited link	u.
+next visited link	v.
+next checkbox	x.
+next division	z.
+step past element	greater than sign.
+step prior to element	less than sign
+
+add shift to any of these commands to move to the prior item.
+add control-jaws key to the applicable quick keys to bring up a list of that element, 
+for example, control - caps or insert - z will bring up a list of the divisions on the page.
+
+keystrokes for navigating forms:
+move to first form field on page	control-insert-home
+next form control	f.
+prior form control	shift f
+enter forms mode, spacebar, or left mouse button (/ on the num pad)
+exit forms mode, escape, numpad plus or caps-semicolon
+
+to move and read in tables:
+Move To Next Table	T. 
+Move To Prior Table	SHIFT-T. 
+Select Table	F8. 
+List Tables	CTRL-INSERT-T. 
+Jump to Table Cell (from within a table)	CTRL-WINDOWS Key-J. 
+Return to Previous Cell	CTRL-SHIFT-WINDOWS Key-J 
+Read current cell	CTRL-ALT-NUM PAD 5. 
+Move to and Read Next Cell	CTRL-ALT-RIGHT ARROW. 
+Move to and Read Prior Cell CTRL+ALT+LEFT ARROW 
+Move to and Read Cell Above CTRL+ALT+UP ARROW 
+Move to and Read Cell Below CTRL+ALT+DOWN ARROW 
+Move to and Read First Cell CTRL+ALT+HOME 
+Move to and Read Last Cell CTRL+ALT+END 
+Read Next Row WINDOWS Key+ALT+DOWN ARROW 
+Read Prior Row WINDOWS Key+ALT+UP ARROW 
+Read Current Row WINDOWS Key+COMMA 
+Read from Beginning of Row to Current Cell INSERT+SHIFT+HOME 
+Read from Current Cell to End of Row INSERT+SHIFT+PAGE UP  
+Read Current Column WINDOWS Key+PERIOD 
+Read from Top of Column to Current Cell INSERT+SHIFT+END 
+Read from Current Cell to Bottom of Column INSERT+SHIFT+PAGE DOWN 
+Read Next Column WINDOWS Key+ALT+RIGHT ARROW  
+Read Prior Column WINDOWS Key+ALT+LEFT ARROW  
+
+miscellaneous keyboard commands
+virtual find,--------control - f
+Find next occurrence of most recent jaws find, F3
+jump to a line--------j
+go to the next occurrence of text,--insert+enter
+
+Internet Explorer commands:
+
+Favorites list.  CTRL+I.  
+Feeds list.  CTRL+J.  
+History list.  CTRL+H.  
+Add to Favorites button ALT+Z.   
+Home Menu button. ALT+M. Opens a context menu that allows you to select the browser's home page or define a new home page.   
+Feeds button. ALT+J. Opens a context menu that allows you to subscribe to Web feeds. 
+Print button. CTRL+P to print. ALT+R to open the Print context menu.  
+Page button. ALT+P. Use this button to select such items as Cut, Paste, View Source, and Send Page by E-mail.  
+Tools button. ALT+T or ALT+O. Provides access to the Internet Options dialog and the 
+Phishing Filter submenu.   
+Help button.  ALT+H. Opens the Internet Explorer Help menu. Also opens the About Internet Explorer dialog box.  
+Access search box CTRL-E
+Access information bar: ALT-N
+
+TABS
+To open a new blank tab, press CTRL+T and then enter a URL in the Address bar. 
+Open a New Tab from the Address Bar.  ALT+ENTER (on the address bar).  
+Open a New Tab from the Toolbar Search Box.   ALT+ENTER (on the address bar).  
+View List of Open Tabs.  CTRL+SHIFT+Q.  
+Toggle Quick Tabs (Thumbnail View).  CTRL+Q.  
+Switch to the Next Tab.   CTRL+TAB.  
+Switch to the Previous Tab.   CTRL+SHIFT+TAB.  
+Switch to a Specific Tab Number.   CTRL+n, where n is a digit from 1 to 8.  
+Switch to Last Tab.   CTRL+9.  
+Close Current Tab.  CTRL+W or CTRL+F4.  
+Close All Tabs.  ALT+F4.  
+Close Other Tabs.  CTRL+ALT+F4.  
+Open Links in a New Tab in the Background.   CTRL+ENTER.  
+Open Links in a New Tab in the Foreground.  CTRL+SHIFT+ENTER. 
+
+Activate Mouse Over   INSERT+CTRL+ENTER   
+
+ELEMENTS
+Virtual HTML Features   INSERT+F3   
+Activate Mouse Over   INSERT+CTRL+ENTER   
+View Basic Element Information  INSERT+SHIFT+F1   
+View Advanced Element Information  CTRL+INSERT+SHIFT+F1   
+Move to Next Clickable Element  SLASH   
+Move to Previous Clickable Element   SHIFT+SLASH   
+Select Clickable Element  INSERT+CTRL+SLASH   
+Move to Next Mouse Over Element  SEMICOLON   
+Move to Previous Mouse Over Element  SHIFT+SEMICOLON   
+Select a Mouse Over Element  INSERT+CTRL+SEMICOLON 
+
+Select Element use F8. To select an element, move to it and press F8. The element is selected and ready to be copied to the clipboard.  
+Select Table use F8. To select an entire table, move to the line that reads, "Table with x columns and y rows," and press F8. 
+Enter/Leave Multi-Select Mode use SHIFT+F8. Use this command in extended selection list boxes to switch to Multi-Select Mode. You can then use the arrow
+keys to move through the list, and press the SPACEBAR to select items. When you are finished, press SHIFT+F8 to leave Multi-Select Mode. 
+

@@ -1,0 +1,9 @@
+Recipe Organizing Assignment
+
+In the same folder as this assignment, you will find a folder called "recipe assignment". Open this folder in Finder and do the following
+
+1. Make 4 folders inside of the recipe assignments folder. name these folders main dishes, side dishes, soups, and desserts.
+
+2. Move each of the recipe files to the appropriate folder.
+
+

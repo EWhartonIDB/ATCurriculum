@@ -1,0 +1,20 @@
+Sorting and Counting
+
+Open the file called movie list.xls in your Excel folder. This is Alice's inventory of VHS tapes and DVDs.  Alice has a pretty serious collection and she is seriously organized. In the A column, she puts the title, in the B column, she puts the genre (C for comedy, M for musical, S for sci-fi, d for drama, etc.). In the C column, she puts whether it is a VHS tape or a DVD. In the D column she rates the movie, giving it between 1 and 5 stars. 
+
+1. Select the entire data area.  Go to the home ribbon and select the format button. Select Autofit column width from the dropdown. Repeat this step again and choose auto fit column height. This will ensure that all cell contents are visible on the screen and would be printed if she wanted to print out a complete list of movies.
+
+2.  Sort the movies by title. 
+
+3. Alice is looking to build a DVD and VHS rack and needs to know how much storage space she needs. You will need to count how many VHS tapes and how many DVDs she has. You can do this by creating a formula using the COUNTIF function. This function counts how many cells in a range contain a certain value or string of text. The syntax is as follows: =countif(range to be counted, "criteria to be met in order for the cell to be counted") Note that the criteria needs to be in quotes. The criteria can be text like "apples" or a number like "3" or an expression like "<5" or ">=100"
+a. How many VHS tapes does she have?
+
+b. How many DVDs?
+
+4. Alice's friend Carol wants to borrow some musicals. She doesn't have a VCR. She wants to know which musicals Alice has on DVD. Alice uses the B column to tag her movies by genre. Use the sort option in the Data ribbon to sort the movies by genre and then by format. Copy the titles of all the musicals on DVD below:
+
+5. Alice's friend Trent wants to know which Sci-Fi movies Alice has on VHS. Sort by genre (S stands for Sci Fi) then by format and paste the titles below:
+
+6. Alice has decided to do a little spring cleaning. How many movies would she get rid of if she got rid of all the movies she rated as less than 3? 
+
+b. How many if she got rid of everything less than a 4?

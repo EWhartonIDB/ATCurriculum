@@ -1,0 +1,4 @@
+
+You find yourself in what appears to be a living room. You find a couch, a chair, and an end table -- with an old-fashioned rotary phone on top of it.  Just as you reach for the phone, it begins to ring.
+If you want to answer the phone, go to page 7.
+If you want to let it ring, go to page 8.

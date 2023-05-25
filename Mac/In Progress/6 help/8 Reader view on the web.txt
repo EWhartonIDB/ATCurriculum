@@ -1,0 +1,16 @@
+Reader view within web browsers
+What is reader view?
+Reader view is a simplified layout that is provided by some websites. Most web browsers support it, but some call it different names. Reader view removes clutter, reduces the number of buttons on the website, removes advertisements, and reduces the number of background images. Reader view can make a very frustrating website with articles easy to read with your screen reader.
+1.	Research more about reader view, and describe what it can do in your own words
+2.	Describe the steps to enable the reader view on an article in your web browser of choice
+3.	Report the various elements on an articles webpage before enabling reader view. (Hint use the summery when your page loads)
+4.	 Turn on reader view and explain what elements were removed, and how it helped simplify the reading experience of the article
+5.	Why might you use the self-voicing function included in various web browsers over using the standard voice you use with your screen reader?
+
+Notes
+Many websites have disabled the ability to turn on reader view because it removes advertisements causing the website to lose money
+Chrome 
+has a hidden reader view that is in experimental mode at this time. Google has added it to the browser and has randomly removed it over the years. Might be better off finding a reader extension for chrome.
+Firefox
+Multiple ways to get into reader view
+Has an easy hot key to turn on reader view

@@ -1,0 +1,23 @@
+
+Cut the fruits and paste them in the file called "fruits." Cut the vegetables and paste them in the file called "vegetables."
+
+apples
+green beans
+lemons
+cucumbers
+oranges
+pears
+onions
+peaches
+strawberries
+red peppers
+cherries
+asparagus
+cabbage
+blueberries
+broccoli 
+raspberries
+spinach
+carrots
+plums
+celery

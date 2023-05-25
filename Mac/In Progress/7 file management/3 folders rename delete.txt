@@ -1,0 +1,19 @@
+Creating folders and renaming files
+
+To create a new folder, navigate to the drive or folder inside of  which you would like to create a new folder using Finder. Then either use the keyboard shortcut for creating a new folder or find this option in the file menu. You will then need to type in a name for the folder and hit the enter key. 
+
+To delete a file or folder, select the file or folder and hit command-delete
+Note: on a personal Mac, this command will work immediately, moving items you delete to the trash. On our network, the computer will ask you to confirm that you want to delete an item, because it permanently deletes the file and cannot be recovered.
+
+To rename a file or folder, hit the enter key, type in the new name, and hit enter. Remember to type the file extension (the period and the letters after it).
+
+1. Create a new folder in your file management folder. Name it files2.
+
+2. Create a new folder on the SD card. call it folder2.
+
+3. Go to the assignment 3 folder on the SD card. Delete the files named delete_me.txt and delete_me_too.jpg.
+
+4. In the same folder, rename the file rename_me.jpg as puppy.jpg
+
+5. In the same folder, rename the file called rename_me2.doc as essay.doc
+

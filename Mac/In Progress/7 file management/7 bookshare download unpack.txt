@@ -1,0 +1,9 @@
+Downloading and unpacking books from Bookshare
+
+1. Go to www.bookshare.org.  Login with your username and password. If you do not yet have one, have your instructor log you in.
+
+2. Search for a book that you would like to read in audio. Choose the link to download in daisy.  Safari will automatically save the files in your Downloads folder.
+
+3. Choose a book to read in braille. Choose the link to download in brf.  
+
+4. Copy the books to the SD card you will get from your instructor.

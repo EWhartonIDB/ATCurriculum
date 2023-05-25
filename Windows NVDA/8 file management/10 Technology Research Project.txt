@@ -1,0 +1,30 @@
+Braille Display Research Project
+
+	Whenever one considers purchasing a new piece of technology, whether that be a computer, smart phone, braille display or something different, it is important to research available options. It is good to know the different choices that exist, as well as what will be involved if something goes wrong with the device.
+	For this project, you are going to research different braille display options for someone who might like to purchase one. We want to know about the range of braille displays available, how much they cost, what features they have, what their warrantees are like, how to gain assistance when using them, and what is involved with getting one repaired.
+
+1. In your file management folder, create a folder called braille displays.
+
+2. using the internet, locate at least five braille display companies, list them below.
+
+3.  Choose three companies that you would like to research in more detail. For each, list a web site, phone number and email address through which one can learn more about their products.
+
+4. For each company, list all the braille displays they sell.
+
+5. Choose three different braille displays you would like to research further; list them.
+
+6.  Locate the manual for each of your three devices; save the manuals to your braille displays folder.
+
+7. For each braille display, use the internet and the manual to locate the following information. Create a document called "braille display information" in your braille display folder to put this information. Organize your findings in a manner that will make sense to someone else reading what you found about the different displays.
+A. Braille display name
+B. Price
+C. Number of braille cells (if the display comes in multiple sizes, list each size and the price for each size)
+D. Does the device contain internal memory? If yes, is the memory built-in or removable?
+E. Does the device have built-in speech?
+F. What built-in applications, if any, does the device have?
+G. What screen readers does the device work with?
+H. How long is the device's warrantee and what does it cover?
+I. What is a phone number and web site for purchasing this device?
+J. What is a phone number and email address for obtaining technical support if there is a problem with the device?
+K. Can you find any websites or email lists where users of this product share information with each other? List what you find.
+L. List three other pieces of information you find noteworthy about this device.

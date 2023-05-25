@@ -1,0 +1,20 @@
+
+Reminder: read all of the instructions below, before you begin this assignment.
+
+Creating a quick calculator
+
+Use Excel to design a calculator that can perform the following functions.
+Be sure to clearly identify, or label each area so that someone else could use this calculator without further explanation.
+
+1. add up a list of numbers that can be as short as 2 and as large as 50 numbers
+2. subtract one number from another
+3. multiply 2 numbers
+4. multiply 3 numbers
+5. divide one number by another
+
+6. Save this file in your folder and give it the name calculator.
+7. set a monitor cells so that each function above corresponds to its number. 
+for example: Monitor cell number one gives the total of the numbers being added.
+
+Instructions for setting and reading monitor cells
+You can have JAWS tell you the contents of a particular cell, if you create a monitor cell. You can do this by first moving to that cell, then press insert+shift plus any number from 0 to 9. To have JAWS reed this monitor cell to you, press alt+shift plus the number that you assigned. Once a monitor cell is created, You can press this key sequence, anytime, where ever you are positioned in the spreadsheet, and JAWS will read it to you. Control-shift-m will list currently defined monitor cells

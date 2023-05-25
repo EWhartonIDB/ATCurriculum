@@ -1,0 +1,35 @@
+Reading Commands and Objectives
+
+Objectives
+To read text in a document, learn how a screen reader speaks cursor movement, and understand the difference between backspace and delete
+
+Key Concepts
+Modifier keys, the cursor
+
+Skills
+•	Navigating text by letter, word, line, and paragraph
+•	Visualizing the location of the cursor in a document
+•	Using home and end to reach a desired location efficiently
+•	Deleting and replacing letters and words
+•	Saving a previously saved document
+•	Closing an application
+
+Reading Screens and Documents
+
+Listed below are some important commands for reading and navigating documents.
+
+Move up one line, up arrow
+Move down one line, down arrow
+Move left one character, left arrow
+Move right one character, right arrow
+Move left one word, control left arrow
+Move right one word, control right arrow
+Move to beginning of line, home
+Move to End of Line, end
+Move up one paragraph, control up arrow
+Move down one paragraph, control down arrow
+Move to beginning of document, control home
+Move to end of document, control end
+Say all, NVDA A
+Read title bar, NVDA T
+Say time, NVDA F12 

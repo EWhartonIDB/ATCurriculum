@@ -1,0 +1,16 @@
+
+In the folder where you found this file are two files about gardening. The first one gives instructions about planting garlic and is a web page that opens in Safari. The second is a text file about planting blueberries that opens in Textedit. Use these documents to answer the following questions.
+Note: the command VO-F will bring up the JAWS find box which can help you locate specific words or phrases on a page. Hitting VO-G will take you to the next occurrence of the last word searched for.
+
+1. Is it OK to grow grass between rows of blueberries?
+
+2.  Should garlic cloves be planted root up?
+
+3. Should blueberries be mulched?
+
+4.  Does garlic compete well with weeds?
+
+5. Do blueberries like full sun?
+
+6. Are the  scapes or curly parts of garlic stems poisonous?
+

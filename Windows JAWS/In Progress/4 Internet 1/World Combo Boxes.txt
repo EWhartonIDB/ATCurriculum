@@ -1,0 +1,178 @@
+World Combo Boxes
+
+This assignment is designed for practice navigating tables, choosing options from combo boxes, and listening closely to what is said by a screen reader.
+You are to use the World file within your assignment folder to look up each country and then select the appropriate continent from the combo box.
+
+Enter your name.
+
+Enter your instructors name. 
+
+Chad
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+New Zealand 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+French Guiana 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Saint Lucia 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Saba 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Greenland 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+Afghanistan 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Guinea-
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+Palestine  
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Benin 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Saba 
+
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Vatican City
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+Sint Maarten 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+Nauru 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+Fiji 
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+
+Marshall Islands 
+
+
+Africa
+Antartica 
+Asia
+Europe
+North America
+South America 
+Oceania
+
+

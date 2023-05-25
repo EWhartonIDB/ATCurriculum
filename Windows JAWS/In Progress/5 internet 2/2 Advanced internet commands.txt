@@ -1,0 +1,101 @@
+Advanced internet Keystrokes
+
+Below are more internet keystrokes that you may find helpful; feel free to ask questions about any of them; some keystrokes that you already know are also in this list. 
+
+general:
+go back a page, alt-left arrow or backspace
+go forward a page	alt-right arrow
+next linkor form control 	tab
+prior link or form control	shift-tab
+open link	enter
+open virtual html features dialog box	jaws-f3
+Activate Mouse Over	jaws-CTRL-ENTER
+
+Display and manage PlaceMarkers	control-shift-k
+list form fields - jaws-f5
+list headings	jaws-f6
+list links	jaws-f7
+list frames	jaws-f9
+go to address bar	alt-d
+
+
+keyboard commands to move through a web page. 
+next radio button A
+next button	b.
+next combo box	c.
+next different element	d.
+next edit	e.
+next form field	f.
+next graphic	g.
+next heading	h.
+next list item	i.
+jump to a specific line	j.
+Return to the starting point before the jump	shift-j.
+next place marker	k.
+next list	l.
+next frame	m.
+skip past links	n.
+next object	o. 
+next paragraph	p.
+next block quote	q.
+next region r. 
+next same element	s.
+next table	t.
+next unvisited link	u.
+next visited link	v.
+next checkbox	x.
+next division	z.
+step past element	greater than sign.
+step prior to element	less than sign
+
+add shift to any of these commands to move to the prior item.
+add control-jaws key to the applicable quick keys to bring up a list of that element, 
+for example, control - caps or insert - z will bring up a list of the divisions on the page.
+
+keystrokes for navigating forms:
+move to first form field on page	control-insert-home
+enter forms mode, spacebar, or left mouse button (/ on the num pad or number strip)
+exit forms mode, escape, numpad plus or caps-semicolon
+
+to move and read in tables:
+Move To Next Table	T. 
+Move To Prior Table	SHIFT-T. 
+Select Table	F8. 
+List Tables	CTRL-INSERT-T. 
+Read current cell	CTRL-ALT-NUM PAD 5. 
+Move to and Read Next Cell	CTRL-ALT-RIGHT ARROW. 
+Move to and Read Prior Cell CTRL+ALT+LEFT ARROW 
+Move to and Read Cell Above CTRL+ALT+UP ARROW 
+Move to and Read Cell Below CTRL+ALT+DOWN ARROW 
+Move to and Read First Cell CTRL+ALT+HOME 
+Move to and Read Last Cell CTRL+ALT+END 
+Read from Beginning of Row to Current Cell INSERT+SHIFT+HOME 
+Read from Current Cell to End of Row INSERT+SHIFT+PAGE UP  
+Read from Top of Column to Current Cell INSERT+SHIFT+END 
+Read from Current Cell to Bottom of Column INSERT+SHIFT+PAGE DOWN 
+miscellaneous keyboard commands
+virtual find,--------control - f
+Find next occurrence of most recent jaws find, F3
+jump to a line--------j
+go to the next occurrence of text,--insert+enter
+
+Microsoft Edge commands:
+
+Favorites list. control+shift+o
+History list.  CTRL+H.  
+Add to Favorites control+d
+Print button. CTRL+P to print. ALT+R to open the Print context menu.  
+open the edge menu alt+f
+Access search box CTRL-E
+TABS
+To open a new blank tab, press CTRL+T and then enter a URL in the Address bar. 
+Open a New Tab from the Address Bar.  ALT+ENTER (on the address bar).  
+Switch to the Next Tab.   CTRL+TAB.  
+Switch to the Previous Tab.   CTRL+SHIFT+TAB.  
+Switch to a Specific Tab Number.   CTRL+n, where n is a digit from 1 to 8.  
+Switch to Last Tab.   CTRL+9.  
+Close Current Tab.  CTRL+W or CTRL+F4.  
+Close All Tabs.  ALT+F4.  
+Close Other Tabs.  CTRL+ALT+F4.  
+Open Links in a New Tab in the Background.   CTRL+ENTER.  
+Open Links in a New Tab in the Foreground.  CTRL+SHIFT+ENTER. 

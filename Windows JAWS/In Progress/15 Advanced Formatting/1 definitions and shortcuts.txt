@@ -1,0 +1,124 @@
+
+graphic
+1. A symbol produced by a process such as handwriting, drawing, printing, engraving, etc. 2. An image in computer graphics format.
+
+bullet
+A large dot  used as a design element in text; often used to set off each item in a list. This kind of list is called a bulleted list.
+
+Table
+A presentation of information organized in rows and columns. 
+
+Style:
+A system for managing font faces and sizes within a document. Styles will have preset font attributes for different types of text including body text, headings of various levels, headers and footers, page numbers, and other types of text.
+
+Locations of functions within the Word 2010 menus: 
+bullet:
+1. right click with the applications key, select the bullets split button
+2. Select the bullets split button from the third group on the home ribbon
+
+insert a picture:
+insert ribbon, second group 
+
+change margins:
+page layout ribbon, second group
+*As of this writing, a bug exists which prevents you from jumping directly to the second group with control right arrow. You will have to tab through the themes group to reach it 
+
+change orientation of document:
+page layout ribbon, second group
+*As of this writing, a bug exists which prevents you from jumping directly to the second group with control right arrow. You will have to tab through the themes group to reach it 
+
+print:
+1. access the ribbon with alt, press left until you hear file tab, press down until you hear print tab, press right arrow
+2. press control+P
+
+center document vertically on page:
+page layout ribbon, select page setup from second group, navigate to layout tab, tab to vertical alignment, select center
+
+Informational Keystrokes 
+
+Say character formatting  INSERT-F  
+Say font color  INSERT-5  
+Say line and column INSERT-DELETE  
+Say cursor position  ALT-DELETE  
+Describe border of text  ALT-SHIFT-B  
+Convert shape to text readable by JAWS  ALT-CTRL-SHIFT-C  
+Say language in use  ALT-CTRL-SHIFT-A  
+Announce Comment ALT-SHIFT-APOSTROPHE  
+Announce Footnotes or Endnotes ALT-SHIFT-E  
+Say Current Scheme Name  ALT-INSERT-Q   
+
+Lists 
+List comments  CTRL-SHIFT-APOSTROPHE  
+List Hyperlinks  INSERT-F7  
+List Inline Objects  CTRL-SHIFT-O  
+List spelling errors  ALT-SHIFT-L  
+List revisions  INSERT-SHIFT-R  
+List grammatical errors  CTRL-SHIFT-G  
+List headings  INSERT-F6   
+
+Forms 
+Move focus to first field in a form  CTRL-INSERT-HOME  
+Read Field Contents CTRL-INSERT-NUM PAD 5  
+Select a field  INSERT-F5  
+Create Custom Label  CTRL-INSERT-TAB   
+
+Outline View 
+Show Heading 1 ALT-SHIFT-1  
+Show to Heading 2 ALT-SHIFT-2  
+Show to Heading 3 ALT-SHIFT-3  
+Show to Heading 4 ALT-SHIFT-4  
+Show to Heading 5  ALT-SHIFT-5  
+Show to Heading 6 ALT-SHIFT-6  
+Show to Heading 7 ALT-SHIFT-7  
+Toggle between all and headings only  ALT-SHIFT-A  
+Heading to Prior Level  ALT-SHIFT-LEFT ARROW  
+Heading to Next Level  ALT-SHIFT-RIGHT ARROW  
+Move Heading Up ALT-SHIFT-UP ARROW  
+Move Heading Down ALT-SHIFT-DOWN ARROW 
+
+Styles
+Move to style bar CTRL-SHIFT-S  
+Select next heading style ALT-SHIFT-RIGHT ARROW  
+Select prior heading style ALT-SHIFT-LEFT ARROW  
+Point Size CTRL-SHIFT-P  
+Insert and Overtype mode ALT-CTRL-I  
+Copy formatting of selected text CTRL-SHIFT-C  
+Paste formatting  CTRL-SHIFT-V   
+
+Keystrokes for Working in Tables
+JAWS supports the same standard commands for working in tables on the internet, in Microsoft Word, and in most popular applications, allowing you access right away - without having to learn the  application specific commands. As you become more familiar with new applications, you may find it easier to use the commands specific to that
+program, or it might be easier for you to continue using these commands.
+
+Commands for Moving within Tables
+These commands move focus to the indicated cell and speak the contents. Cell and row coordinates as well as column and/or row heading information may also
+be provided.
+
+Say Current Cell  ALT-CTRL-NUM PAD 5  
+Cell to Right  ALT-CTRL-RIGHT ARROW  
+Cell to Left  ALT-CTRL-LEFT ARROW  
+Cell Below  ALT-CTRL-DOWN ARROW  
+Cell Above  ALT-CTRL-UP ARROW  
+First Cell  ALT-CTRL-HOME  
+Last Cell  ALT-CTRL-END  
+First Cell in Column  ALT-CTRL-SHIFT-UP ARROW  
+Last Cell in Column  ALT-CTRL-SHIFT-DOWN ARROW  
+First Cell in Row  ALT-CTRL-SHIFT-LEFT ARROW  
+Last Cell in Row ALT-CTRL-SHIFT-RIGHT ARROW 
+
+Table Reading Commands
+Say Current Cell  ALT-CTRL-NUM PAD 5  
+Read Current Row  INSERT-SHIFT-UP ARROW  
+Read from Start of Row  INSERT-SHIFT-HOME  
+Read to End of Row  INSERT-SHIFT-PAGE UP  
+Read Current Column INSERT-SHIFT-NUM PAD 5  
+Read from Top of Column  INSERT-SHIFT-END  
+Read to Bottom of Column  INSERT-SHIFT-PAGE DOWN 
+
+Table  commands for MS Word
+Read table column ALT-INSERT-C  
+Say column title  ALT-INSERT-SHIFT-C  
+Say first cell in column ALT-1  
+Read Table Row  ALT-INSERT-R  
+Say row title  ALT-INSERT-SHIFT-R  
+Say first cell in row  ALT-7  
+Select first cell in a table  INSERT-CTRL-T   

@@ -1,0 +1,4 @@
+
+You open the door and walk into what appears to be an entry way. If you turn to your left, you walk into a large room with hard-wood flooring. If you turn to your right, you walk into a smaller, carpeted room.
+If you want to turn right, go to page 6.
+If you want to turn left, go to page 9.

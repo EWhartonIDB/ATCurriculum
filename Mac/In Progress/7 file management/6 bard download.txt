@@ -1,0 +1,16 @@
+BARD Download
+
+1. Go to the BARD website at 
+bard.loc.gov
+
+2. Login using your username and password. If you do not have one, have your instructor provide you with a password. 
+
+3. Locate and press the button to accept the pledge.
+
+4. Search for an audio book to download that you would enjoy reading and follow the link to download it.
+
+5. Go to your downloads folder and select the book that you downloaded.  This book will be a zip folder full of files.
+
+6. Open the folder using command-o, which will unzip it.
+
+7. Copy the folder to a jump drive. It can now be played in a talking book player provided by NLS.

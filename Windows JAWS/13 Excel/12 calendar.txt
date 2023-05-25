@@ -1,0 +1,39 @@
+The Baby Pool
+
+
+Your co-worker Beth just announced to the office that she is going to have a baby. Sam from accounting suggested that it would be fun to have an office baby pool and everybody thinks this is a great idea.  Since you are the chair of the office events committee, this project falls in your lap. You need to create a chart to put up on the bulletin board in the coffee area. 
+Your committee decided that the contest should run for 4 weeks, September 1 -- September 28 date. Beth is due on Sunday, September 15. The due date cannot be purchased and sam found a clip of a baby buggy that can be put in that square (it is called buggy.gif and it is on the v-drive).  also, the dates that have been purchased should be put in a different color from the dates that have not been purchased.
+To make the chart more user-friendly for your co-workers, you should make each cell square shaped (change the height) and center the text in each cell both horizontally and vertically.  each cell should also have a border. The title Beth's Baby Pool should be in 16 point font and centered (be sure to use the "center across selection" option) above the chart.
+
+The following dates have already been purchased:
+Sam -- September 5
+Omar -- September 12
+Maria -- September 7
+Trent -- September 2
+Yoshi -- September 25 
+Karl -- September 18
+Miguel -- September 27
+
+Note: The height of a cell is measured in points but cell width is measured in characters. When you press insert+f, JAWS gives you the cell dimensions (both the height and width) in points. You want to set the height and width to somewhere around 100 points. 
+
+Change the page orientation to landscape. Also, set the  "fit to" option to page and choose 1 page wide and 1 page tall. This will ensure that the calendar would print on one page.
+
+Note: It is best to insert the graphic as the very last thing you do. Also, once you insert the graphic, any cursor movements you make will nudge that object. JAWS doesn't really tell you this. The easiest way to have your arrow keys stop moving the object is to route the PC cursor to the JAWS cursor. with caps lock left brackett.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Save this file in your folder and give it the name Baby Pool.
+
+Have Fun!

@@ -1,0 +1,23 @@
+
+Below is a list of numbers and colors. Put the numbers in the file called Numbers and the colors in the file called Colors.
+
+Red
+Five
+Blue
+Eight
+White
+One
+Maroon
+Ten
+Sea blue
+Four
+Green
+Six
+Yellow
+Seven
+Purple
+Three
+Peach
+nine
+Turquoise
+Two

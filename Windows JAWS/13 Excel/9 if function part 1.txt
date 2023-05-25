@@ -1,0 +1,27 @@
+
+The if function
+
+Open the spreadsheet called accounts payable in your excel folder. Use this spreadsheet for the following assignment. You may wish to set column header row to row 1 to make this assignment easier to navigate.
+
+Scenario: You are the bookkeeper for Dundr Mifflin office supplies. Many of your clients do not pay their bills on time. Your company charges a $10 late fee whenever a payment is not made by the due date, plus 10% interest on any amount remaining after the bill is paid.
+
+1. use the if function to put a $10 charge in the f column for only the accounts that did not get a payment in by the due date. The syntax for the if function is as follows:
+ =if(statement to be decided, value if true, value if false)
+Notice that there are three arguments inside the parentheses. These arguments are seperated by commas.
+The statement to be decided is whether the contents of the e column is greater than the contents of the b column. If this is true, you want the contents of this cell to be 10, if it is false, you want it to be 0. 
+
+2. Fill this formula down the f column
+
+3. Create a formula in cell G2 to calculate 10% of the amount owed after the bill is paid.
+
+4. Fill this formula down the G column.
+
+5. Write a formula to calculate the balance owed in H2. This should be the amount owed minus the payment made plus any fees.
+
+6. Fill the amount owed down the H column.
+
+7. Calculate the total amount owed to the company in cell H17
+
+8. Calculate the total amount of the late fees in cell f17.
+
+9. Bold each of the column headers in row 1. 

@@ -1,0 +1,98 @@
+﻿
+Function Search
+
+You are going to design a worksheet that would help a person writing a type of poem called a sestina.  You don't have to understand what a sestina is, beyond the fact that it repeats the last words of lines in a particular pattern.  If you would like to know more and read an example, this information is printed after the assignment. Here is the pattern. 
+
+Stanza 1: ABCDEF
+Stanza 2: FAEBDC
+Stanza 3: CFDABE
+Stanza 4: ECBFAD
+Stanza 5: DEACFB
+Stanza 6: BDFECA
+Stanza 7: B & E, D & C, F & A
+
+1. Open up an Excel worksheet and put the following words in the following cells: 
+a1: red
+b1: cloud 
+c1: wind 
+d1: night 
+e1: winter 
+f1: snow
+
+2. You are working from the idea that row 1 is stanza 1, row 2 is stanza two, row 3 is stanza 3 and so on. therefore, since the first word used in the second stanza is F, in the cell a2 you would right the formula =f1
+since the second word is supposed to be A, in cell b2 you would right the formula =a1
+Do this for all of the first six stanzas (cells c2 through f6) 
+
+3. Now you may have noticed there is a problem. Cells  a7, b7, and c7 all have to contain two words. You need to find a way to put these strings of text in the same cell.  You can do this with a function.  You can find the appropriate function by going to the formula ribbon and pressing spacebar on insert function.  In the dialog box that appears, type a description of the function you are looking for.  Hint -- you may need to use the JAWS cursor to read the description of the selected function which will appear below the select a function list box. To access the JAWS cursor, use caps lock p; to get back to your normal PC cursor, press caps lock semicolon. 
+
+4. When you construct your formula with the proper function, it may be that the two words run together with no space between them.  What can you do to fix this? (Hint, your function can have more than two arguments). If you cannot think of a solution, ask your instructor for more hints.
+
+
+The Sestina
+A sestina is a poetic form with 39 lines. There are six lines in six stanzas and a final stanza of 3 lines.  The trick of this form is that the last word of each of the first six lines is used as the last word of the lines in the next six stanzas in a very certain pattern. Then two of the words are used in each of the last three lines. Here is the pattern:
+
+ABCDEF
+FAEBDC
+CFDABE
+ECBFAD
+DEACFB
+BDFECA
+B & E, D & C, F & A
+
+Here is an example, the words that are used at the end of the lines are A="regret", B="love" C="whole" D="relate" E="work" F="place". 
+
+The Concord Art Association Regrets
+Pam White 
+
+    Your entry was not accepted. We regret
+    it wasn't (enough for us), a work of love.
+    We liked many of the colors on the whole
+    but the mass was just something unrelated
+    to the rest of our show. We hope your work
+    will have a bright future in another place.
+
+    We remember last year you tried to place
+    another photograph and it was also with regret
+    we turned you down. Though for that particular work
+    we found nothing about it (no one could) to love.
+    It was obscure and a little upsetting in relation
+    to the rest of our show which we look on as a whole.    
+
+    Now you may think us ungenerous. On the whole
+    you are probably right, but this is our place
+    and we can do what we want whether you relate
+    to it or not. However we don't want you to regret
+    your association with us. We want you to love
+    us, send us money, but please, no more work.
+  
+    You see right now we need money to work
+    on the building we're in. There's a hole
+    in the roof and one wall needs all the love
+    and attention it can get. Really the place
+    needs so much, which all costs. I regret
+    to remind you we need more space for related
+
+    works. We're trying to expand and relate
+    to lots of different kinds of work
+    so different people won't regret
+    their visit with us but will see the whole
+    beauty and tranquillity of the place
+    and come with us, a journey of love
+
+    where people of all races, colors, and creeds love
+    to look and bask and of course bring relations,
+    friends, and lovers. All are welcome to our place
+    here where all the world's magnificent work
+    can be shown in its entirety, the whole
+    place filled - with your exception, we regret.
+
+    We know you'll love the whole
+    work we're doing for this place.
+    We can't relate enough our regret.
+  
+            (Copyright � 1983-2003 by Pam White.)
+
+ 
+
+
+

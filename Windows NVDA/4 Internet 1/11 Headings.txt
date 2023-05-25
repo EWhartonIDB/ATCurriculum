@@ -1,0 +1,34 @@
+Headings Assignment
+
+Headings are a great way to browse through a web page, particularly large ones with many sections. Headings are used visually to separate sections of text; the tend to be in larger darker fonts that will cath someone’s attention more easily.
+Headings come in different levels to denote larger and smaller sections. For example, the title of a page might be at heading level one, major sections might be at level two, and smaller sections might be at level three. Note that the larger the number, the smaller the section. Every web site is different in how it uses headings, so it’s good to explore them on your own.
+Remember that typing H will move you to the next heading and shift plus H moves you to the previous heading.. Also, pressing any of the numbers one through six will move you to the next heading at that level.
+
+In your section 4 folder there is a file called textbook. This website contains many articles about blindness. The articles are broken up into units, with the units at heading level one and the articles at level 2.
+
+Now answer the following questions. 
+
+1. 
+A. Find unit 1 and browse the articles in this unit. Choose one article to read. Paste the name of this article here:
+
+B. Read the article and write a brief summary here:
+
+2. 
+A. Find unit 6 and browse the articles in this unit. Choose one article to read. Paste the name of this article here:
+
+B. Read the article and write a brief summary here:
+
+3. 
+A. Find unit 4 and browse the articles in this unit. Choose one article to read. Paste the name of this article here:
+
+B. Read the article and write a brief summary here:
+
+4. 
+A. Find unit 7 and browse the articles in this unit. Choose one article to read. Paste the name of this article here:
+
+B. Read the article and write a brief summary here:
+
+5. 
+A. Find unit 3 and browse the articles in this unit. Choose one article to read. Paste the name of this article here:
+
+B. Read the article and write a brief summary here:

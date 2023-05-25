@@ -1,0 +1,73 @@
+Assignment:
+This assignment deals with the use of styles. Word uses styles to make formatting easier and more consistent. Every change that changing a style makes to the appearance of your text can be done manually. However, using styles can sometimes make producing a long multi-part document easier
+
+Instructions
+
+1. Copy the text below into a blank Word Document
+2.  Select the top line and change its style to heading 1
+3. Select each of the individual article headlines and change their style to heading 2
+4. Press control shift s to access the style dialog box. Select heading 1, then tab to the modify button. A dialog box will pop up where you can modify the style. Change heading 1 to Comic Sans MS 16 point bold.
+5. Change heading 2 to Comic Sans MS 14 point. Once this change is made, all of the lines that you set to heading 2 should change automatically.
+6. Change normal style to Comic Sans 12 point, the text in your document should reflect this change.
+Note: You can also change one of the heading 2's using the usual font dialog box, select it, and instead of choosing "modify" from the submenu, choose "update to match current selection"
+----begin text to copy-----
+
+Wacky News Briefs
+
+WINDOWS NOT A VIRUS
+Cupertino, Cal. (SatireWire.com) — Symantec issued an apology to Microsoft yesterday after the security software maker's AntiVirus Research Center issued
+an alert for a "widespread and lethal virus known to cause system crashes and data loss" that turned out to be the Windows 2000 operating system. Symantec
+CEO John Thompson called it a "regrettable but understandable" mistake.
+
+Firms Hire Jerks to Improve Customer Service
+
+New York, N.Y. (SatireWire.com) — Taking their cue from Internet companies that have recently hired hackers to improve site security, several struggling online firms announced today they will hire unbearably rude people in hopes that they will help improve customer service.
+
+"It's really a natural progression of the same theory," said Christos Cotsakos, CEO of E*Trade, which has announced it will place at least a dozen surly wankers in customer relations jobs by the end of the year. "You hire a hacker because they know how people abuse a system. We'll hire rude morons because
+they understand the abusive mind, and they can help us deal with problem customers."
+
+
+Post Office Leading the Way In New "Paper Technology" 
+
+Washington, D.C. (SatireWire.com) — The U.S. Postal Service's plan to print customer emails and send them as more expensive first-class mail may be the "tip of the iceberg," according to analysts who predict that many other digital documents could also be produced at much higher cost, and much more slowly, by utilizing new "paper technology." 
+
+The comments come after the Post Office said this week it will test an email-to-paper system allowing customers to send emails to a post office to be printed and delivered as first-class mail. The cost would be 41 cents — eight cents more than current 33-cent postage. 
+
+"Theoretically, documents that now take up only a fraction of space on a single computer could be converted into literally mountains of paper," said UBS Warburg analyst Gloria Naderki, who added she was also monitoring the postal service's experimental messenger-by-horse technology, which she estimated is "at least 100 years away." On a related note, Monsanto today revealed it is working on technology that will convert MP3s -- music delivered digitally, often for free, over the Web -- into expensive CDs and, eventually, 8-track tapes. 
+
+Fired eBay Employees Auctioned Off 
+San Jose, Cal. (SatireWire.com) — As part of the staff cuts it announced yesterday, online auction site eBay said it will not release its employees outright, but will auction them off individually. To increase interest in the employees, who will come from the company's offline Butterfield & Butterfield division, eBay has paired each outgoing staffer with a fine collectible. 
+
+So far, bidding on human-resources-manager- Claudia-Penton-with-a-set-of-Mr.-Peanut- snack-cups has been slow, but the action on marketing-director-Randy-Keller-with- a-hand-painted-Limoges-sardine-server has been quite hectic. Said Keller: "I think it's obvious why my bids are moving. I have six years experience in product positioning and demand planning, and come with a matching server tray." 
+
+House Sends Spam Bill to Senate; Senate Spam Filter Deletes It
+Washington, D.C. (SatireWire.com) — The anti-spam bill passed by the U.S. House of Representatives Tuesday was sent to the Senate today, but the Senate's spam filtering software automatically determined it was junk mail and deleted it. Amy Lee, Chief System Administrator of the Senate, defended the software's actions: "Our filter recognizes the email addresses of anyone known to propagate junk," she said. "This one came from house.gov. Of course the program blocked it." 
+
+Undeterred, House leaders vowed to send the Unsolicited Electronic Mail Act again. "We sent that bill to the Senate because they were referred or requested additional information," said Rep. Heather Wilson, R-N.M. "I don't want to waste their time or ours, but we are seeking positive, motivated individuals that are serious about voting for this bill and making their dreams come true! Hot House staffers are waiting for their call !!!" 
+
+Hackers Attack Air-Traffic Control Centers, Cause "On-Time Chaos" 
+
+Washington, D.C. (SatireWire.com) — A congressional report warning that U.S. air traffic control is vulnerable to computer attack proved true today, as hackers broke into several control center computers, wreaking havoc on the airline industry by causing planes to land safely and on time. 
+
+"Our systems are not designed for this kind of reckless, irresponsible efficiency," stressed Delta Airlines spokesman Dan Ryan who, like other airline executives, said he would go to Washington to meet with the FAA. "Until these individuals are stopped, we cannot guarantee... oh darn, my plane's here already. I've got to go. This is lunacy." 
+
+King's e-Book Plants Virus 
+
+Bangor, Maine (SatireWire.com) — Novelist Stephen King, who expects 1.5 million people to download his e-book, The Plant, announced today he will publish an online sequel called The Virus, what he called the "true and ironically funny" story of 1.5 million people who unwittingly download an e-book planted with a malicious computer virus. 
+
+If The Virus is successful, King said he will release the third book in the trilogy, entitled The Antidote. Selling for a flat fee of $100, The Antidote will contain only a few lines of code and will, he added, "probably only be of interest to anyone who downloaded The Plant." 
+
+"Many people have said that publishing on the Web would never be lucrative," said King. "But I think it's safe to say I've figured out a way around that." 
+
+New Web Site Launched for Those Without Internet Access 
+
+New York, N.Y. (SatireWire.com) — Reacting to an alarming new report that warns of a widening "digital divide" between those who have Internet access and those who don't, the United Nations last week launched HaveNot.org, a community and commerce site targeted at the estimated 5 billion people who do not have access to the Internet. According to HaveNot director Anthawal Nadretee, traffic so far "has been very slow, which we think is encouraging." 
+
+Free Computers Not Free; Nation's Idiots in Denial
+
+Washington, D.C. (SatireWire.com) — After an FTC probe revealed retailers such as Buy.com and Office Depot were advertising practically free computers that turned out to be anything but, the nation's complete idiots refused to believe they'd been duped. "Look, you only find out it's a raw deal if you read the fine print, right?" said Buy.com customer Scott Thurnwell of Mesa, Ariz. "So the trick is, you don't read the fine print." 
+
+FBI TARGETS PARANOID
+Washington, D.C. (SatireWire.com) — The FBI disclosed today that it has been systematically reading and deleting email messages sent to and from paranoid people. According to a Bureau spokesman, the FBI has been pursuing the strategy for "exactly as long as those people think we've been doing it." 
+
+

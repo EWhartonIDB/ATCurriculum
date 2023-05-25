@@ -1,0 +1,29 @@
+Navigation Textbook and Objectives
+
+Objective
+To become familiar with the Windows environment and to be able to move to basic parts of the interface and between windows and applications efficiently
+
+Key Concepts
+Start menu, Windows Explorer, windows, applications
+
+Skills
+•	Using the Start Menu search box to open the Documents folder
+•	Navigating to and opening files using Windows Explorer
+•	Moving between open applications and windows
+•	Copying text from one window to another
+•	Understanding how a screen reader reads numbers
+
+Navigation
+
+Commands:
+Open start menu: Windows key
+Save a document, control s
+Close an application, alt F4
+Move between open applications: alt tab
+Go back to the previous folder in Windows Explorer, backspace or alt left arrow
+Find text, NVDA control F
+Find the next occurance of the previously searched for item, NVDA F3
+
+Notes
+You can only alt tab to something after it is already open; you must open the item first.
+The start menu allows you to access programs and files on your computer, it includes the search box that is the easiest way to start most applications and open your documents folder.

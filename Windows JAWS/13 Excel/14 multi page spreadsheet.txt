@@ -1,0 +1,39 @@
+Multi-Page Worksheet
+
+Open the file called Widget Sales.xlsx in your Excel folder. This spreadsheet is made up of several pages, but the first page is blank. On this page, you will create a summary and total for the sales figures from the other pages in the spreadsheet. 
+Note: to move between sheets, use control page up and control-page down. 
+
+1. Write "Widget Sales Summary" in cell a1 of sheet1 a. nd center and merge it with cells b1, c1, d1, e1, and f1. Put this title in 16 point font
+
+2.  In cells a3-f3, copy and paste the following:
+Product	Q1	Q2	Q3	Q4	Total
+
+3. In cells a4-a8 copy and paste the following:
+Widget Master
+Widget Pro
+Widget Lite
+Widget Turbo
+Widget Cloud
+
+4. In order to refer to a cell on another sheet, you must write the name of the sheet followed by an exclamation point in front of the cell reference. For example, cell b2 on sheet potato would be referenced by writing: potato!b2. If you wished to have a cell mirror the contents of that cell, you would write: =potato!b2. Go to the sheets for each product and find the cell refernce for each quarterly sales figure. Fill in the table with the references you find.  If you do this correctly, the contents of cell b4 will be 119980
+
+5. In cell a9 write Total Sales.
+6. In cells f4-f8, total the quarterly sales for each product. Hint: autosum
+
+7. Put totals in cells b9 through f9
+
+8. Format all cells containing numbers in all sheets to currency with 2 decimal places
+
+9. Use the JAWS cursor to find the sheet tabs at the bottom of the page. Find the tab for the first sheet in this spreadsheet that is currently named sheet1. Change the name of this sheet to summary. To do this, press the left mouse button twice (numpad slash) (double click), type in the new name, then hit enter.
+
+10.   Select the area from a3 to f9 on your  summary sheet. Put a medium continuous border around the outside of this region and a thin continuous border on the inside. Note: ON the border page of the format cells dialog box, there are 3 preset buttons: none, outline, and inside. Select the type of border you want, then hit the appropriate preset button.
+
+11. Select the header row (a3 through f3). Change the fill color of this selection to light blue. Note: on the fill page of the format cells dialog box, there are blocks of colors in a grid. Your screen reader might read many of these as numbers, but common colors are given names. Arrow in all directions to find the color you need and hit spacebar to select it.
+
+12. Auto fit all columns on the summary sheet so that all data will be visible when the sheet is printed.
+
+13.   Select the region (a1 through f9). Hit control-p to bring up the print dialog box. Use tab to navigate through the dialog box. Set the following options:
+set print what to print selection
+set page orientation to landscape
+Ask your instructor which printer to select
+Then hit the print button.

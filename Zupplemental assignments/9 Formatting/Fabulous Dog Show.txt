@@ -1,0 +1,16 @@
+Fabulous Dog Show Lesson 
+  
+Instructions:  Find the letters "dog" and replace it with "cat" using Notepad. 
+  
+Objective:  Learning about find and replace command. 
+  
+There are fifty fabulous dogs signed up to  
+compete in the National Purina Dog Show in Chicago. 
+These highly skilled dogs come from all over the world. 
+They dress to impress as their owners have created wonderful, 
+one-of-a-kind dog outfits.  These intelligent dogs 
+come to win a year worth of dog treats and dog toys. 
+Currently, there are thirty-six more small dogs than large  
+dogs signed up to compete.  More dogs are welcome 
+to compete in all of the different events.  If you love dogs, 
+this is the dog show for you and your dog. 

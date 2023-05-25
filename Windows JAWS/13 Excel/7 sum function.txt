@@ -1,0 +1,43 @@
+The Sum Function
+
+Definitions of Terms:
+function: a command that tells Excel to perform a certain operation, like adding, counting, or averaging
+Syntax: the way a formula needs to be written in order for a program to understand it.
+Arguments: the specific data that a program needs in order to perform the function. Arguments are written inside of a set of parentheses and separated by commas.
+Range: a set of two or more contiguous cells.  You show a range by writing the first cell (top/left) followed by a colon followed by the last cell (bottom/right) Example: A1:F8
+
+Assignment
+Reminder: read all of the instructions below before you begin this assignment.
+
+Situation: Rosa has a job where she earns $11.75 per hour.
+
+Problem to solve: Rosa wants to be able to figure out how much she will be earning next month if she works the following number of hours each day.
+
+Week 1: 8	8	8	10	8
+
+Week 2: 6	6	8	8	10
+
+week 3: 12	10	6	8	10
+
+week 4:  6	6	10	10	12
+
+Use the days of the week as your column headers. 
+Use week 1 to week4 as your row headers.  
+In cell G1, put Total Hours. 
+In cell H1 put Total Pay. 
+In cell A6, put Total Earnings.
+
+Put the corresponding hours in the appropriate cells.
+In cell G2, you will use the sum function to calculate the total number of hours Rosa works the first week. 
+You will begin with the equals sign as you would with any formula. Then you type the word sum to let Excel know that you want it to add up all of the arguments in the range. Arguments are always placed inside parentheses. The range that you want Excel to add is b2 through f2. You indicate a range by typing the first cell in the range and the last cell in the range separated by a colon. So therefore, what you need to type into cell g2 is: =sum(b2:f2).
+
+Create functions in cells g3, g4, and g5 that add up those weeks in the same way.
+
+In cell H2, Create a formula that will calculate Rosa's pay for the week. Do the same for the other 3 weeks; this is a simple multiplication formula.
+
+In cell g6, use the sum function to calculate the total number of hours Rosa will work this month.
+
+In cell h6, use the sum function to calculate how much  Rosa will earn this month.
+
+
+Save this file in your folder and give it the name formulas. 

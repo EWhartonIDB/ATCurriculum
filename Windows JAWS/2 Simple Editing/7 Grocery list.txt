@@ -1,0 +1,7 @@
+
+Grocery list
+
+Tony is going shopping. He has a grocery list, but it is out of order.
+Cut and paste the numbered items into an ordered list with each item on its own line.
+
+18 Whole milk 19 Eggs 12 Boneless chicken breasts 4 Broccoli 9 Spaghetti sauce 10 Tomato soup 13 Frozen cheese ravioli 11 Cream of mushroom soup 8 Baked beans 6 Pickles 15 Frozen green beans 2 Bananas 14 Frozen corn 3 Yellow bell peppers 7 Mac and cheese 5 Canned tuna in water 20 Shredded cheddar cheese 16 Chocolate ice cream 17 Strawberry yogurt 1 Grapes 

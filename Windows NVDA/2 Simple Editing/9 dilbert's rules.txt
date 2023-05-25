@@ -1,0 +1,10 @@
+
+Below is a numbered list. This list needs to be separated so that each numbered item is on its own line, and this list needs to be in numerical order.
+Make sure that there is one blank line between each numbered item.
+
+Dilbert's Rules of Order 
+
+1. I can only please one person per day. Today is not your day. Tomorrow is not looking good either. 
+
+ 19. People who go to conferences are the ones who shouldn't. 3. Tell me what you need, and I'll tell you how to get along without it.  4. Accept that some days you are the pigeon and some days the statue.  5. Needing someone is like needing a parachute. If he isn't there the first time, chances are you won't be needing him again.  8. My reality check bounced.  6. I don't have an attitude problem, you have a perception problem.  18. You can go anywhere you want if you look serious and carry a  clipboard.  7. Last night I lay in bed looking up at the stars in the sky, and I thought to myself, where the heck is the ceiling?  9. On the keyboard of life, always keep one finger on the escape key.  11. You are slower than a herd of turtles stampeding through peanut  butter.  12. Everybody is somebody else's weirdo.  13. Never argue with an idiot. They drag you down to their level, then  beat you with experience. 14. A pat on the back is only a few centimeters from a kick in the butt.  10. I don't suffer from stress. I'm a carrier.   15. Don't be irreplaceable--if you can't be replaced, you can't be  promoted.  16. After any salary raise, you will have less money at the end of the  month than you did before.  17. The more junk you put up with, the more you're going to get. 20. If it weren't for the last minute, nothing would get done. 2. I love deadlines. I especially like the whooshing sound they make as  they go flying by.
+

@@ -1,0 +1,23 @@
+
+Below is a list of plants and animals. Put the plants in the file called plants and the animals in the file called animals.
+
+Dog
+Cactus
+Orangutan
+Lilac
+Cat
+Pitcher Plant
+Fish
+Basil
+Tulip
+Giraffe
+Peace Lily
+Snake
+Sage
+Mountain Lion
+Wolf
+Fern
+Cougar
+Venus Fly Trap
+Daffodil
+Mouse

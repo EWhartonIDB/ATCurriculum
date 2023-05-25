@@ -1,0 +1,115 @@
+Definitions:
+
+Menu Bar
+A horizontal bar across the top of a window that contains the names of available menus or tabs, such as File, Font, Window, etc.
+
+Menu
+A list of options or commands that is displayed vertically below the menu bar. 
+
+Menu Item
+An option found within a menu. For example, in many applications, the file menu will contain items such as open, save, close, new, and exit.
+
+Standard Item
+An item in a menu which, when selected, will carry out its function immediately with no dialog boxes or sub-menus. An example of such an item is the close option found in most system menus
+
+Sub-Menu
+A smaller menu which opens off of a menu item. For example, The NVDA options menu features a voices item which can open a sub-menu whose items deal entirely with voice adjustment. You will know when the menu item you have highlighted leads to a sub-menu because NVDA will announce "sub-menu" after reading the menu item. You can open a sub-menu by pressing either right arrow or enter, and you can close it by pressing left arrow or escape.
+
+Dialog Box
+	A box containing text and choices, such as the shut down dialog box. When navigating a menu or ribbon, NVDA will say "dot dot dot" when an item leads to a dialog box.
+
+System Menu
+A menu common to almost all windows applications which contains options for changing the size or location of a window as well as closing it. It can be accessed by pressing alt with space.
+
+Maximize
+A system menu item which expands the current window to its largest possible size. An unfortunate quirk of Windows is that, sometimes, certain keyboard commands only work when a window is maximized.
+
+Restore
+a system menu item which returns a maximized window to its default size
+
+Minimize
+A system menu item which removes a window from the screen. It does not close the program, but only moves it aside so the user can access the window or program it is currently covering. When using the keyboard, it is generally preferable to alt tab to windows rather than minimize them.
+
+Context Menu
+A menu which contains items relevant to the text, item or program your cursor is focused on. This menu does not appear until you press the command to bring it up, and is located directly where the cursor is. For example, when highlighting a file, the context menu will contain commands such as open, delete, and rename--items for dealing with management of that file. This menu can be reached by pressing the right mouse button, the applications key, or shift F10.
+
+Toolbar
+A vertical or horizontal bar containing icons that represent the commands that can be used in an application.
+The icons on the toolbar are most commonly accessed by using a mouse, and  it can be moved around or made to disappear
+Note: all the options on a toolbar are also available within menus from the menu bar.
+
+Keyboard Shortcut
+A key combination that can be pressed to do a task, instead of selecting an option through the menus  or ribbons. For example, control-c is the keyborad shortcut for copy.
+
+Hot Key
+A letter in the name of a menu item that, when  pressed, will move the cursor to that item and select it. Hot keys can be pressed in sequence to move quickly through multiple menus. For example, pressing H, C from the NVDA window will open the updates dialogue, because h goes to the help menu, and C is for Check for updates. NVDA will read hot keys after it reads a menu item. 
+
+Ribbon:
+A large toolbar displayed in various Microsoft programs that contains groups of menus and buttons grouped by common tasks. Ribbons are designed to be more user friendly than menus and submenus. The Ribbon was introduced with Office 2007.
+
+Tab:
+A section of a ribbon which contains a specific set of functions. For example, page layout or insert.
+
+Upper Ribbon:
+The section of the ribbon which contains the program's main tabs; this is equivalent to the menu bar.
+
+Lower Ribbon:
+The toolbar which appears when a tab on the main ribbon is opened. The lower ribbon contains groups of functions along with the functions themselves.
+
+Group:
+A set of related functions within a specific tab. For example, the home tab contains groups for cutting and pasting, changing the font, and numbering/bulleting your text.
+
+Split Button:
+A button that brings up a list of choices, similar to a submenu.
+
+Drop-Down Menu:
+A menu that drops down when the item is pressed, similar to a submenu.
+
+Drop-Down Grid:
+Like the drop-down menu above, but with information organized into a grid. You can navigate the grid with the four arrow keys, and you select your option by pressing enter.
+
+Dialog Box
+A box that opens up on the computer screen, and  it allows the user to communicate with the computer. 
+
+Control
+An option within a dialog box.  
+
+Control Type
+The exact kind of a given control i.e. radio button, combo box, butten, submenu.
+
+Default
+An instruction that a computer assumes, unless the user gives it other instructions. For example, if the default font in a word processing program is Times New Roman, this is the font that the word processing program will use every time you create a new document. The user may instruct the machine to use a different default font once the program is opened. A variety of types may be used, regardless of the default setting.
+
+Toggle
+To switch back and forth between two options.
+
+button 
+At item that when pressed, caries out its function immediately. Buttons are pressed with enter or space.
+
+edit field 
+A box in which text can be typed.
+
+combo box 
+A box containing a vertical list of choices. Combo boxes are opened with alt down arrow, choices can then be arrowed through. Escape will exit a combo box with the currently selected item chosen.
+
+edit combo Box
+A box like a combo box, but where text can also be typed.
+
+spin box
+A box containing a list of numberical values, similar to a combo box except that one can usually go up or down in a circle through the choices.
+
+list box 
+A box containing choices, similar to a combo box.
+
+List View
+This is like a miniature list of files or folders that are on your computer
+You can move through this list the same way you would in a list box. 
+
+check box 
+A box that is either checked or unchecked. Space is used to check or uncheck check boxes.
+
+radio button 
+Radio buttons are found in groups of two or more. Only one radio button can be selected within a group. Space is used to select a radio button.
+
+slider 
+These controls are usuallly for a scale, such as 0 to 100% of something. They are adjusted with the arrow keys.

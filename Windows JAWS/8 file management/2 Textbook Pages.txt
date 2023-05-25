@@ -1,0 +1,60 @@
+File Management
+
+Definitions
+
+Hard Drive
+hard drive or solid state drive
+A disk drive that reads and stores data on hard disks. If a computer were a human being, the hard drive or solid state drive would be its long-term memory. Generally, these drives contain more storage space than other kinds of drives.
+
+RAM
+Random Access Memory. If a computer were a human being, its RAM would be its short term memory. 
+
+USB Drive / Flash Drive / Jump Drive / Thumb Drive / Pen Drive 
+A portable storage device that plugs into a computer's USB port. Flash drives are a common way of storing and transferring data.
+
+SD card or Micro SD card
+a type of data storage card that is used by digital cameras, music players, braille notetakers, and other portable devices
+
+File
+A block of electronic information, stored together on a computer or external digital storage medium, and given a name. It may be a program, a document, a database, or something else.
+
+Folder
+A place where files can be organized and stored.
+
+path
+The exact directions to a file on a computer. 
+
+File Explorer
+The program used for exploring folders and files. 
+
+File Extension
+A notation after the end of a file's name which indicates the type of file it is. The extension follows a period; for example, in the name 2 textbook pages.txt, the extention txt means it is a text file. If it said 2 textbook pages.docx, then it would be a Microsoft Word document.
+
+Common File Extensions
+brf - braille file
+brl braille file
+doc -- Microsoft Word file prior to Word 2007
+docx -- Microsoft Word document from Word 2007 or later 
+dll -- system file
+exe -- program file
+gif -- picture
+html -- web page
+htm -- web page
+ini -- system file
+jpg -- picture
+mht -- single file web page
+mp3 -- sound file
+rtf --  rich text format (text with formatting, similar to doc file)
+txt -- text file
+wav -- sound file
+xls -- Excel file prior to Excel 2007
+xlsx - Excel from Excel 2007 or later
+
+Commands
+Open File Explorer: Windows-e
+Create new folder: control shift n
+Delete file or folder: delete
+Rename file or folder: f2
+Select multiple files, control space
+Open a document: control O
+Bring up "Save As" dialog box: F12

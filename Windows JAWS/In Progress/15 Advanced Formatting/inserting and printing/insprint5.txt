@@ -1,0 +1,5 @@
+Page Numbers
+
+1. Open the file called format3.doc located in your folder. Go to the insert menu and select page numbers. Make it so that the page numbers appear at the upper right hand corner of the document. Make sure there is no page number on the first page. 
+2. open the file called AVOIDING CORPORATE CULTURE SHOCK.doc on the vdrive. save a copy of this file in your folder. put page numbers at the bottom of the page and center them.
+3. open the file called  flying pig.doc on the v drive. save a copy in your folder. put page numbers in the upper right hand corner of the page.  make sure there is no page number on the first page.

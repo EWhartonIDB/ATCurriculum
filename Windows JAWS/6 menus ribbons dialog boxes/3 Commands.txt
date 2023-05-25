@@ -1,0 +1,26 @@
+Keyboard Commands
+
+Below are the commands you will want to memorize in this unit. Feel free to write them down and/or make flash cards for yourself. You will practice these commands throughout the unit.
+
+Go to menu bar, alt
+Exit menu bar, alt or escape
+Open a ribbon, down arrow
+Move to previous menu, left arrow
+Move to next menu, right arrow
+Move to next item within a ribbon, tab
+Move to previous item within a ribbon, shift tab
+Move to next group of items within a ribbon, control right arrow
+Move to previous group of items within a ribbon, control left arrow
+Select menu or ribbon item, enter
+Close menu or dialog box, escape
+Open system menu, alt space
+bring up shortcut menu, application key or shift F10
+Move to next item in a dialog box, tab
+Move to previous item in a dialog box, shift tab
+Change page in a dialog box, control tab
+Minimize all windows, windows M
+read dialog box -- JAWS Key b
+Bring up list of Task Bar icons, JAWS key F10
+Bring up list of System Tray icons, JAWS key F11
+Say current time, JAWS key F12 
+

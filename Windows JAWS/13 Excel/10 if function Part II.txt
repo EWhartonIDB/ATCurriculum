@@ -1,0 +1,27 @@
+
+Reminder: read all of the instructions below, before you begin this assignment.
+
+Background
+You are the bookkeeper for Vandallay Industries. It is your job to calclate the pay for the 25 employees of the company. You have created the spreadsheet called "weekly payroll.xls" located in your Excel folder. 
+
+Everything over 40 hours each week is considered overtime. 
+Everyone earns $12.25 per hour regularly and an extra $5.00 for every hour of overtime. 
+
+1. in cell G2, use auto sum to calculate the number of hours  albert worked this week.
+
+2. In cell H2, use the average function to calculate the average number of hours that albert worked this week. the syntax for the average function is the same as the syntax for the sum function. It should read: 
+=average(range). Remember to seperate the first and last cells in the range with a colon. 
+
+3. in cell I2,calculate how much regular pay albert will earn this week.
+
+4. in cell J2, calculate the overtime pay that albert will earn this week. in order to make this calculation without giving those who worked less than 40 hours a week a negative amount of pay, you need to use the if funtion. This will allow you to tell Excel to use a 0 instead of a negative number if  the total number of hours is less than 40. 
+
+5. create a formula in cell K2 to add the regular pay to the overtime pay.
+
+6. Fill down all the formulas you created in row 2 to row 26.
+
+7. In cell g27, calculate the total number of hours worked by all employees this week.
+
+8. in cell h27, calculate the average number of hours worked this week by all employees 
+
+9. in cell i27 calculate the total regular pay , in cell j27 calculate the total overtime pay, and in k27 calculate the total payroll for the week.

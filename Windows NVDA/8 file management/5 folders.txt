@@ -1,0 +1,17 @@
+Creating folders and renaming files
+
+	To create a new folder, go to Windows Explorer and navigate to the exact position where you would like the new folder to end up. 
+	Navigate to and select the "New Folder" option within the Home ribbon in Windows Explorer. Your cursor will be placed inside the field for the name of the new folder, with the words "new folder" already in the box. Change that text to "Test 1" and then press enter. You should now have a folder called Test 1.
+	While all the commands you need can be found in the ribbons, your textbook pages contain short cut commands for creating, renaming and deleting folders. Note that while the commands for creating a file and folder differ, the commands for renaming and deleting are the same regardless of whether the item is a file or folder.
+
+1. Create a new folder in the file management folder. Name it My files.
+
+2.  Create another folder in your File Management folder; call it Books.
+
+3. Borrow a thumb drive from your instructor. Create a new folder on the jump drive. call it copied_files.
+
+4. Go to the folder called assignment files in your File Management folder. Delete the files named delete_me.txt and delete_me2.jpg.
+
+5. In the same folder, rename the file rename_me.jpg as lighthouse.jpg
+
+6. Copy Lighthouse.jpg into the copied_files folder on the jump drive.

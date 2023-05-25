@@ -1,0 +1,12 @@
+Answer each question below. Place your answer at the end of the line with the question.
+
+1. What is your name?
+2. What is today's date?
+3. What is your favorite color?
+4. Pick a number between 1 and 50.
+5. What is the weather like today?
+6. What is your favorite season?
+7. What was the name of the town where you grew up?
+8. What is your favorite animal?
+9. What is your favorite food?
+10. When is your birthday?

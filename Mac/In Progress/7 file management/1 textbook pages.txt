@@ -1,0 +1,123 @@
+File Management
+
+Objective:
+To efficiently save, find, move, organize, copy, and delete files and folders
+
+Key Concepts
+files, folder, views, drives, removable storage, media types, file types and extensions, spotlight menu, file versions
+
+Skills
+•	changing views and defaults in finder
+•	Saving newly created files
+•	copying, pasting, moving and deleting files
+•	renaming files and folders
+•	creating folders
+•	using the shortcut menu 
+•	Downloading books from BARD and Bookshare
+
+hard drive
+A disk drive that reads and writes data on hard disks. If a computer were a human being, the hard drive would be its long-term memory. 
+
+ROM
+Read-only memory. Usually refers to media that a computer can read but not write upon. A CD-ROM or DVD-ROM can be read by a computer but it cannot be written upon by the computer.
+
+RAM
+Random Access Memory. If a computer were a human being, its RAM would be its short term memory. 
+
+burn
+to write information onto a compact disc (CD) or digital video disc (DVD)
+
+CD-ROM Drive
+A disk drive that reads CD-ROMs and audio CDs. It may be installed in the computer or used externally. A recordable CD-ROM drive can also record onto the CDs.
+
+DVD-ROM Drive
+A drive that will play DVDs but not burn information onto them.
+
+CD-RW or DVD-RW
+A CD or DVD drive that can both read and write on a CD. It can also refer to a type of CD  or DVD that can be erased or re-written. 
+
+flash drive / jump drive / thumb drive / pen drive 
+A portable storage device that plugs into a computer's USB port. It generally mounts itself as a drive and creates an icon on the desktop. 
+
+compact flash (CF) card
+a type of data storage card that is used by digital cameras, music players, braille notetakers, and other portable devices
+
+secure digital (SD) card
+another type of data storage card that is used by digital cameras, music players, braille notetakers, and other portable devices
+
+hard disk
+The main device that a computer uses to store information. Most hard disks are permanently connected to the drive, but there are removable hard disks that connect to the computer via a USB cable or firewire.
+
+file
+A block of information in the form of bytes, stored together on a computer or external digital storage medium, and given a name. It may be a program, a document, a database, or some other collection of bytes.
+
+folder
+A place where files can be organized and stored, 
+
+file extension
+A notation after the end of a file's name which indicates the type of file it is. The extension follows a period; for example, "manual.htm". (The extension "htm" indicates this is a webpage.) 
+
+directory Tree
+The organization of directories (or folders) and files and on a hard drive, like the branches of an upside-down tree. The main directory is called the "root directory". 
+
+path
+The exact directions to a file on a computer. These directions are usually described by means of the hierarchical filing system from the top down, stating the drive, folder, any subfolders, the file itself, and its filename extension if it has one, for example, Mac truck/student/documents/computer class/
+
+Finder
+A program used for exploring drives, folders, and files. It has a sidebar containing available locations on the left and a browsing area on the right.  Finder is always running and you cannot quit finder. The desktop is essentially a finder window and can be reached with command-accent or command-shift-d when finder is the active application
+
+sidebar
+A list of available drives, folders, and network locations where you can store files. The sidebar is usually to the left of the browsing area. (Note to Windows users: The sidebar is similar to the tree view found in Windows Explorer, but not as much of a strict hierarchy, so if you are used to using file paths, that way of thinking may not be helpful here.)
+
+Spotlight
+The search utility for the Mac. You can type in the names of files or programs you wish to open and Spotlight will find them. 
+ 
+Home folder
+The folder that is created when you create an account on a Mac. It contains your personal files and data. By default it contains a documents folder, a libraries folder, a downloads folder, and others. 
+
+Applications folder
+The folder that contains the applications installed on the computer. It can be accessed in finder and has the shortcut command-shift-A.
+
+Downloads folder
+The place where files that you download from the internet are stored; this folder is located in your home directory, and also has an icon on the dock.
+
+eject
+To unmount a drive from your computer. CDs, jump drives, and SD cards should be ejected before you remove them in order to protect your data. Eject is an option in the drive's shortcut menu and the top-right key on most Mac keyboards is the "eject" key and will eject CDs and other drives.
+
+alias
+A shortcut  or pointer to a location that is difficult to get to. 
+
+Common File Extensions
+doc -- Word 2003 file
+docx -- Word 2007 or 2010 file
+pages -- pages file
+dll -- system file
+app -- program file
+gif -- picture
+html -- web page
+htm -- web page
+jpg -- picture
+mp3 -- sound file
+m4a, iTunes music files
+rtf --  rich text format (text with formatting, similar to doc file)
+txt -- text file
+wav -- sound file
+
+
+Commands
+Open a new finder window -- command-N
+Delete a file or folder -- command-backspace
+Change the name of a file -- enter
+Open a file -- double tap, command-O or command-down arrow
+Open a folder -- right arrow or command down arrow.
+Go up one level -- command-up arrow
+Expand folder to display contents in a list view --right arrow or command-right  arrow
+Collapse a folder to hide contents in a list view - left arrow or command-left arrow 
+Save a file or a version of a file  -- command-s
+Duplicate a file -- command-shift-s
+open shortcut menu -- control-click or VO-shift-m
+show spotlight result in finder rather than opening it — command-enter
+
+Note: The commands for cutting, copying, pasting, and select all that were covered in the simple editing unit are also available in Finder
+To move a file or folder instead of just copying it, copy it, but then instead of pressing command-v to paste, press command-option-v.
+

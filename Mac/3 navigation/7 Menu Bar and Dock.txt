@@ -1,0 +1,18 @@
+
+Menu Bar and Dock
+
+Using the commands listed in the textbook pages for this unit, answer the following questions about the dock and menu bar on this computer.
+
+1.  How many items are in the dock?
+
+2.  What item in the dock is located to the right of iTunes.
+
+3.  What item is leftmost in the menu bar?
+
+4.  What item is rightmost in the menu bar?
+
+5.  What time is it?
+
+6.  At what level is your volume currently set?
+
+7. If using a laptop, what is the current battery status?
